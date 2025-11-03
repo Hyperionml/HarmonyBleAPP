@@ -1,19 +1,6 @@
 {
   "app": {
     "signingConfigs": [
-      {
-        "name": "default",
-        "type": "HarmonyOS",
-        "material": {
-          "certpath": "C:\\Users\\huankang\\.ohos\\config\\default_HiddenCodeDemo_8qOV5g7L50-8RjpKRVaq2iR7gxJ315k7Nx3mWysd1eQ=.cer",
-          "keyAlias": "debugKey",
-          "keyPassword": "0000001ACC868578A89CACFCEC9834C6195A71D980D2ED94326C30DFB4A42054525546287BC7807BB87B",
-          "profile": "C:\\Users\\huankang\\.ohos\\config\\default_HiddenCodeDemo_8qOV5g7L50-8RjpKRVaq2iR7gxJ315k7Nx3mWysd1eQ=.p7b",
-          "signAlg": "SHA256withECDSA",
-          "storeFile": "C:\\Users\\huankang\\.ohos\\config\\default_HiddenCodeDemo_8qOV5g7L50-8RjpKRVaq2iR7gxJ315k7Nx3mWysd1eQ=.p12",
-          "storePassword": "0000001A77CFBDAEC44D702BF60892D925E7666EE47914D29A64CC066EA6A75DE335BD32414AE608B7E4"
-        }
-      }
     ],
     "products": [
       {
