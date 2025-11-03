@@ -1,0 +1,17 @@
+{
+  "license": "Apache License 2.0",
+  "types": "",
+  "devDependencies": {},
+  "keywords": [
+    "wxfastble",
+    "OpenHarmony",
+    "HarmonyOS"
+  ],
+  "author": "ohos_sig",
+  "name": "@ohos/fastble",
+  "description": "FastBle是一个处理蓝牙BLE设备的库,可以对蓝牙BLE设备进行过滤,扫描,连接,读取,写入等",
+  "main": "Index.ets",
+  "repository": "https://gitcode.com/openharmony-sig/FastBle",
+  "version": "2.0.5",
+  "dependencies": {}
+}

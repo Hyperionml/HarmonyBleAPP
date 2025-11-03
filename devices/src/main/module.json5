@@ -1,0 +1,23 @@
+{
+  "module": {
+    "name": "devices",
+    "type": "har",
+    "description": "$string:shared_desc",
+    "deviceTypes": [
+      "phone",
+      "tablet"
+    ],
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.ACCESS_BLUETOOTH",
+        "reason": "$string:txt_require_bluetooth",
+        "usedScene": {
+          "abilities": [
+            "entry", "devices"
+          ],
+          "when": "always"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1252 @@
+{
+  "string": [
+    {
+      "name": "txt_no_camera_permission",
+      "value": "Acesso não autorizado à câmera, não é possível usar o QT"
+    },
+    {
+      "name": "txt_exit",
+      "value": "Saída"
+    },
+    {
+      "name": "tips_double_click_exit",
+      "value": "Clicando novamente, sairá do programa.."
+    },
+    {
+      "name": "confirm_exit",
+      "value": "Você sai do programa?"
+    },
+    {
+      "name": "tips_result_copy_to_clip_board",
+      "value": "Os resultados da análise foram copiados para a área de transferência."
+    },
+    {
+      "name": "txt_camera_disabled",
+      "value": "Não é possível usar a câmera."
+    },
+    {
+      "name": "permission_title",
+      "value": "Aplicação de permissão"
+    },
+    {
+      "name": "permission_content",
+      "value": "Por favor, permita a rede, disco, câmera, permissões de GPS."
+    },
+    {
+      "name": "txt_require_album_permission",
+      "value": "O aplicativo precisa do seu álbum de fotos para ler ou gravar capturas de tela."
+    },
+    {
+      "name": "txt_require_camera_permission",
+      "value": "O aplicativo precisa usar a câmera para reconhecer o código de barras."
+    },
+    {
+      "name": "txt_require_location_permission",
+      "value": "O aplicativo precisa da sua localização para verificar se o seu produto é genuíno ou não."
+    },
+    {
+      "name": "txt_require_bluetooth",
+      "value": "O aplicativo precisa de Bluetooth para se conectar ao dispositivo QT."
+    },
+    {
+      "name": "txt_require_gps",
+      "value": "Por favor, ligue o GPS."
+    },
+    {
+      "name": "dialog_result_yes",
+      "value": "Sim"
+    },
+    {
+      "name": "dialog_result_no",
+      "value": "Não"
+    },
+    {
+      "name": "app_bar_tool",
+      "value": "Ferramenta"
+    },
+    {
+      "name": "app_bar_setting",
+      "value": "Configuração"
+    },
+    {
+      "name": "btn_feedback",
+      "value": "Feedback"
+    },
+    {
+      "name": "btn_help",
+      "value": "Ajuda"
+    },
+    {
+      "name": "btn_share",
+      "value": "Compartilhar"
+    },
+    {
+      "name": "btn_Album",
+      "value": "Álbum"
+    },
+    {
+      "name": "back",
+      "value": "Retiro"
+    },
+    {
+      "name": "app_bar_light_on",
+      "value": "Acenda a luz"
+    },
+    {
+      "name": "app_bar_light_off",
+      "value": "Desligue a luz"
+    },
+    {
+      "name": "tool_zoom",
+      "value": "Zoom:"
+    },
+    {
+      "name": "tool_focus_time",
+      "value": "Tempo de foco"
+    },
+    {
+      "name": "theme",
+      "value": "Tema"
+    },
+    {
+      "name": "language",
+      "value": "Idioma"
+    },
+    {
+      "name": "language_changed_tips",
+      "value": "Modificado o idioma de exibição, por favor, reinicie o programa."
+    },
+    {
+      "name": "txt_share",
+      "value": "Compartilhar"
+    },
+    {
+      "name": "btn_Screenshot",
+      "value": "Screenshot"
+    },
+    {
+      "name": "login_login",
+      "value": "Login"
+    },
+    {
+      "name": "txt_server_url",
+      "value": "http://113.108.141.10:922/QCC/shanghai2018.html?id="
+    },
+    {
+      "name": "txt_decode_result",
+      "value": "Resultado da análise"
+    },
+    {
+      "name": "dialog_title",
+      "value": "Título"
+    },
+    {
+      "name": "dialog_title_versom_name",
+      "value": "1.0.0"
+    },
+    {
+      "name": "dialog_title_install",
+      "value": "Instalar nova versão"
+    },
+    {
+      "name": "dialog_title_update",
+      "value": "Instalar nova versão"
+    },
+    {
+      "name": "dialog_yes_install_now",
+      "value": "Instalar agora"
+    },
+    {
+      "name": "dialog_yes_update_now",
+      "value": "Atualize agora"
+    },
+    {
+      "name": "dialog_no_install_late",
+      "value": "Instale depois"
+    },
+    {
+      "name": "dialog_no_update_late",
+      "value": "Ignore esta versão"
+    },
+    {
+      "name": "dialog_no_update_cancel",
+      "value": "Cancelar"
+    },
+    {
+      "name": "message_version_updating",
+      "value": "Atualização de versão"
+    },
+    {
+      "name": "message_downloading",
+      "value": "Baixando ..."
+    },
+    {
+      "name": "message_open_access",
+      "value": "O aplicativo de atualização precisa estar ativado para permitir que aplicativos desconhecidos sejam instalados"
+    },
+    {
+      "name": "message_confirm_permission",
+      "value": "Sem permissão para instalar, sem atualizações instaladas"
+    },
+    {
+      "name": "toast_text_error",
+      "value": "Erro de download"
+    },
+    {
+      "name": "decode_error_destroy",
+      "value": "A área atual está muito danificada, por favor, digitalize outras áreas"
+    },
+    {
+      "name": "decode_error_offline",
+      "value": "Anomalia de rede"
+    },
+    {
+      "name": "feedback_tv_title",
+      "value": "Feedback"
+    },
+    {
+      "name": "feedback_tv_phonenumber",
+      "value": "Telefone:"
+    },
+    {
+      "name": "feedback_et_phonenumber_hint",
+      "value": "Por favor, digite seu número de telefone"
+    },
+    {
+      "name": "feedback_tv_chk_title",
+      "value": "Feedback:"
+    },
+    {
+      "name": "feedback_chk_question1",
+      "value": "Erro de digitalização"
+    },
+    {
+      "name": "feedback_chk_question2",
+      "value": "Eu não sei como usar o aplicativo."
+    },
+    {
+      "name": "feedback_chk_question3",
+      "value": "Os programas geralmente travam"
+    },
+    {
+      "name": "feedback_chk_question4",
+      "value": "A câmera treme muito mal"
+    },
+    {
+      "name": "feedback_chk_question5",
+      "value": "A imagem é muito clara, mas o código não é reconhecido"
+    },
+    {
+      "name": "feedback_chk_question6",
+      "value": "A câmera está muito embaçada"
+    },
+    {
+      "name": "feedback_chk_question7",
+      "value": "Outro"
+    },
+    {
+      "name": "feedback_et_feedback_hint",
+      "value": "Descreva EM detalhe OS problemAs que você encontra."
+    },
+    {
+      "name": "feedback_et_photograph",
+      "value": "Adicionar imagem"
+    },
+    {
+      "name": "feedback_btn_submit",
+      "value": "Submeter"
+    },
+    {
+      "name": "feedback_tip_et_phonenumber",
+      "value": "O formato do número de telefone está errado"
+    },
+    {
+      "name": "feedback_tip_et_phonenumber1",
+      "value": "Por favor insira um número de telefone"
+    },
+    {
+      "name": "feedback_tip_submit",
+      "value": "Enviado com sucesso"
+    },
+    {
+      "name": "feedback_tip_feedback_content",
+      "value": "Por favor, selecione ou insira o feedback"
+    },
+    {
+      "name": "btn_plus",
+      "value": "Plus"
+    },
+    {
+      "name": "txt_loading",
+      "value": "Carregando ..."
+    },
+    {
+      "name": "feedback_tip_defeated",
+      "value": "O envio de comentários falhou"
+    },
+    {
+      "name": "feedback_tip_success",
+      "value": "Feedback enviado com sucesso"
+    },
+    {
+      "name": "feedback_tip_failure",
+      "value": "O upload da imagem de feedback falhou"
+    },
+    {
+      "name": "ios",
+      "value": "IOS"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "Código QR"
+    },
+    {
+      "name": "feedback_btn_pick",
+      "value": "Tire uma foto"
+    },
+    {
+      "name": "feendback_btn_image_result_code",
+      "value": "Escolha do álbum"
+    },
+    {
+      "name": "feedback_btn_cancel",
+      "value": "Cancelar"
+    },
+    {
+      "name": "android",
+      "value": "Android"
+    },
+    {
+      "name": "reset",
+      "value": "Reset"
+    },
+    {
+      "name": "decode",
+      "value": "Decode"
+    },
+    {
+      "name": "feedback_loading",
+      "value": "Submetendo"
+    },
+    {
+      "name": "about_app",
+      "value": "Sobre o aplicativo"
+    },
+    {
+      "name": "setting_versionname",
+      "value": "Número da versão atual"
+    },
+    {
+      "name": "txt_decode_loading",
+      "value": "Digitalizado, processando"
+    },
+    {
+      "name": "currentlanguage",
+      "value": "Protuguês"
+    },
+    {
+      "name": "settings_save",
+      "value": "Salvar"
+    },
+    {
+      "name": "necessary",
+      "value": "Obrigatório"
+    },
+    {
+      "name": "qt_code",
+      "value": "QT Code"
+    },
+    {
+      "name": "_2_d_symbology",
+      "value": "2-D SYMBOLOGY"
+    },
+    {
+      "name": "aztec",
+      "value": "Aztec"
+    },
+    {
+      "name": "datamatrix",
+      "value": "DataMatrix"
+    },
+    {
+      "name": "maxicode",
+      "value": "MaxiCode"
+    },
+    {
+      "name": "qrcode",
+      "value": "QRcode"
+    },
+    {
+      "name": "_1_d_symbology",
+      "value": "1-D SYMBOLOGY"
+    },
+    {
+      "name": "codabar",
+      "value": "Codabar"
+    },
+    {
+      "name": "itf",
+      "value": "ITF"
+    },
+    {
+      "name": "code128",
+      "value": "Code128"
+    },
+    {
+      "name": "code39",
+      "value": "Code39"
+    },
+    {
+      "name": "code93",
+      "value": "Code93"
+    },
+    {
+      "name": "ean13",
+      "value": "Ean13"
+    },
+    {
+      "name": "ean8",
+      "value": "Ean8"
+    },
+    {
+      "name": "upca",
+      "value": "UPCA"
+    },
+    {
+      "name": "upce",
+      "value": "UPCE"
+    },
+    {
+      "name": "upceanextension",
+      "value": "UPCEANEXtension"
+    },
+    {
+      "name": "stacked",
+      "value": "STACKED"
+    },
+    {
+      "name": "pdf417",
+      "value": "PDF417"
+    },
+    {
+      "name": "rss14",
+      "value": "RSS14"
+    },
+    {
+      "name": "rssexpanded",
+      "value": "RSSExpanded"
+    },
+    {
+      "name": "fit_image",
+      "value": "Redução ano-a-ano"
+    },
+    {
+      "name": "square",
+      "value": "1:1"
+    },
+    {
+      "name": "_3_4",
+      "value": "3:4"
+    },
+    {
+      "name": "_4_3",
+      "value": "4:3"
+    },
+    {
+      "name": "_9_16",
+      "value": "9:16"
+    },
+    {
+      "name": "_16_9",
+      "value": "16:9"
+    },
+    {
+      "name": "free",
+      "value": "Qualquer Proporção"
+    },
+    {
+      "name": "_7_5",
+      "value": "7:5"
+    },
+    {
+      "name": "circle",
+      "value": "Rodada"
+    },
+    {
+      "name": "circle_square",
+      "value": "CIRCLE_SQUARE"
+    },
+    {
+      "name": "title_product",
+      "value": "Produto"
+    },
+    {
+      "name": "popdown",
+      "value": "Retornar"
+    },
+    {
+      "name": "code",
+      "value": "Code:"
+    },
+    {
+      "name": "decode_time",
+      "value": "Decode Time:"
+    },
+    {
+      "name": "popup",
+      "value": "Aparecer"
+    },
+    {
+      "name": "decoder",
+      "value": "Decodificador"
+    },
+    {
+      "name": "whether_to_turn_on_sound",
+      "value": "Som"
+    },
+    {
+      "name": "whether_to_open_vibration",
+      "value": "Vibração"
+    },
+    {
+      "name": "current_version_numbe",
+      "value": "Número da versão atual:"
+    },
+    {
+      "name": "login",
+      "value": "Login"
+    },
+    {
+      "name": "please_enter_a_user_name",
+      "value": "Por favor insira um nome de usuário"
+    },
+    {
+      "name": "please_enter_your_password",
+      "value": "Por favor digite sua senha"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "logout",
+      "value": "Não logado"
+    },
+    {
+      "name": "title",
+      "value": "Título"
+    },
+    {
+      "name": "delete",
+      "value": "Excluir"
+    },
+    {
+      "name": "submit",
+      "value": "Submeter"
+    },
+    {
+      "name": "there_is_no_code",
+      "value": "Não há código que possa ser destruído"
+    },
+    {
+      "name": "not_logged_in_yet",
+      "value": "Ainda não está logado, por favor faça o login e envie"
+    },
+    {
+      "name": "please_select_to_delete_code",
+      "value": "Por favor selecione o código para deletar"
+    },
+    {
+      "name": "are_you_sure_you_want_to_delete_the_codes",
+      "value": "Tem certeza de que deseja excluir os códigos?"
+    },
+    {
+      "name": "successfully_deleted",
+      "value": "Excluído com sucesso"
+    },
+    {
+      "name": "are_you_sure_to_submit",
+      "value": "Você tem certeza de enviar?"
+    },
+    {
+      "name": "give_up_the_modification",
+      "value": "Desistir da modificação"
+    },
+    {
+      "name": "zxing_decoding_success",
+      "value": "Sucesso de decodificação Zxing:"
+    },
+    {
+      "name": "already_canceled_decoding",
+      "value": "Já cancelou a decodificação"
+    },
+    {
+      "name": "code_map_is_destroyed",
+      "value": "A área de digitalização está danificada e não pode ser decodificada"
+    },
+    {
+      "name": "unknown_exception",
+      "value": "Erro desconhecido"
+    },
+    {
+      "name": "server_error",
+      "value": "Erro do servidor"
+    },
+    {
+      "name": "network_anomaly",
+      "value": "Anomalia de rede"
+    },
+    {
+      "name": "network_error",
+      "value": "Erro de rede, por favor, verifique o status da rede"
+    },
+    {
+      "name": "setting_up_the_network",
+      "value": "Configurando a rede"
+    },
+    {
+      "name": "the_modification_succeeded_and_is_being_restarted",
+      "value": "A modificação é bem sucedida e está sendo reiniciada"
+    },
+    {
+      "name": "login_check_login",
+      "value": "Login automático"
+    },
+    {
+      "name": "login_check_password",
+      "value": "Lembrar"
+    },
+    {
+      "name": "login_password",
+      "value": "Senha"
+    },
+    {
+      "name": "login_account",
+      "value": "Número da conta"
+    },
+    {
+      "name": "login_logout",
+      "value": "Sair"
+    },
+    {
+      "name": "login_title",
+      "value": "Login"
+    },
+    {
+      "name": "login_tip_name_and_password",
+      "value": "O número da conta ou senha está incorreto!"
+    },
+    {
+      "name": "login_tip_name",
+      "value": "A conta não pode estar vazia!"
+    },
+    {
+      "name": "login_tip_password",
+      "value": "A senha não pode estar vazia!"
+    },
+    {
+      "name": "login_tip_login_Success",
+      "value": "Sucesso!"
+    },
+    {
+      "name": "login_tip_logout",
+      "value": "A conta foi desconectada!"
+    },
+    {
+      "name": "txt_barcode_supported",
+      "value": "Ativar código QR, reconhecimento de código de barras"
+    },
+    {
+      "name": "txt_qtcode_supported",
+      "value": "Ativar o reconhecimento do código QT"
+    },
+    {
+      "name": "txt_title_guide1",
+      "value": "Qual é o código QT?"
+    },
+    {
+      "name": "txt_title_guide2",
+      "value": "A distância é de cerca de 10 cm / 4 polegadas"
+    },
+    {
+      "name": "txt_title_guide2_longer",
+      "value": "A distância é de cerca de 12 cm / 5 polegadas"
+    },
+    {
+      "name": "txt_title_guide3",
+      "value": "Brilho moderado, nem muito claro nem muito escuro"
+    },
+    {
+      "name": "txt_title_guide4",
+      "value": "Se o rótulo tiver rugas, nivele-o com os dedos"
+    },
+    {
+      "name": "txt_title_guide5",
+      "value": "A informação do produto é apresentada quando é identificada"
+    },
+    {
+      "name": "btn_enter",
+      "value": "Entrar"
+    },
+    {
+      "name": "btn_update",
+      "value": "Verificar atualizações"
+    },
+    {
+      "name": "update_required",
+      "value": "Já a versão mais recente, não é necessária atualização"
+    },
+    {
+      "name": "dialog_waiting",
+      "value": "Esperando..."
+    },
+    {
+      "name": "dialog_close",
+      "value": "Fechar"
+    },
+    {
+      "name": "dialog_copy_all",
+      "value": "Copiar tudo"
+    },
+    {
+      "name": "txt_header_guide1",
+      "value": "1、QT"
+    },
+    {
+      "name": "txt_header_guide2",
+      "value": "2、Distância"
+    },
+    {
+      "name": "txt_header_guide3",
+      "value": "3、Brilho"
+    },
+    {
+      "name": "txt_header_guide4",
+      "value": "4、Suave"
+    },
+    {
+      "name": "txt_header_guide5",
+      "value": "5、Identificação"
+    },
+    {
+      "name": "identify_effect",
+      "value": "Identifique o efeito"
+    },
+    {
+      "name": "feedback_section0",
+      "value": "Número de teléfono(obligatorio)"
+    },
+    {
+      "name": "feedback_section1",
+      "value": "Feedback (obrigatório)"
+    },
+    {
+      "name": "feedback_section2",
+      "value": "Questões específicas (opcional)"
+    },
+    {
+      "name": "feedback_section3",
+      "value": "Foto (opcional, fornece a Imagem)"
+    },
+    {
+      "name": "score",
+      "value": "Ponto"
+    },
+    {
+      "name": "official_website",
+      "value": "Web site oficial"
+    },
+    {
+      "name": "bsn",
+      "value": "BSN"
+    },
+    {
+      "name": "privacy_policy",
+      "value": "Política de Privacidade"
+    },
+    {
+      "name": "contract_protocol",
+      "value": "Termos de Serviço QT"
+    },
+    {
+      "name": "and",
+      "value": "and"
+    },
+    {
+      "name": "failed_to_get_the_update_information",
+      "value": "Não FOI possível obter a informação de actualização"
+    },
+    {
+      "name": "setting_camera",
+      "value": "CameraParameterDetailedSettings"
+    },
+    {
+      "name": "setting_cameraid",
+      "value": "Camera ID(Level)"
+    },
+    {
+      "name": "setting_apilevel",
+      "value": "Api"
+    },
+    {
+      "name": "setting_camera_level",
+      "value": "APISupportLevel(SpecificToAPI2):"
+    },
+    {
+      "name": "setting_zoom",
+      "value": "Zoom"
+    },
+    {
+      "name": "setting_focusDistance",
+      "value": "FocusDistance"
+    },
+    {
+      "name": "setting_exposuretime",
+      "value": "ExposureTime"
+    },
+    {
+      "name": "setting_exposure_compensation",
+      "value": "ExposureCompensation"
+    },
+    {
+      "name": "setting_iso",
+      "value": "Sensitivity"
+    },
+    {
+      "name": "setting_frame_duration",
+      "value": "FrameDuration"
+    },
+    {
+      "name": "setting_mode",
+      "value": "Mode"
+    },
+    {
+      "name": "setting_picture_size",
+      "value": "PictureSize"
+    },
+    {
+      "name": "setting_picture_format",
+      "value": "PictureFormat"
+    },
+    {
+      "name": "setting_preview_size",
+      "value": "PreviewSize"
+    },
+    {
+      "name": "setting_preview_format",
+      "value": "PreviewFormat"
+    },
+    {
+      "name": "setting_auto_focus_mode",
+      "value": "AutoFocusMode"
+    },
+    {
+      "name": "setting_auto_exposure_mode",
+      "value": "AutoExposureMode"
+    },
+    {
+      "name": "setting_auto_white_balance_mode",
+      "value": "AutoWhiteBalanceMode"
+    },
+    {
+      "name": "setting_noise_reduction_mode",
+      "value": "NoiseReductionMode"
+    },
+    {
+      "name": "setting_flash_mode",
+      "value": "FlashMode"
+    },
+    {
+      "name": "setting_auto_focus_trigger",
+      "value": "AutoFocusTrigger"
+    },
+    {
+      "name": "setting_auto_available_capabilities",
+      "value": "AvailableCapabilities"
+    },
+    {
+      "name": "setting_physical_size",
+      "value": "Sensor size"
+    },
+    {
+      "name": "setting_pixel_size",
+      "value": "Pixel size"
+    },
+    {
+      "name": "setting_sensor_active_array_size",
+      "value": "SensorActiveArraySize"
+    },
+    {
+      "name": "setting_sensorpre_aorrection_active_array_size",
+      "value": "SensorpreCorrectionActiveArraySize"
+    },
+    {
+      "name": "setting_focus_distance_calibration",
+      "value": "FocusDistanceCalibration"
+    },
+    {
+      "name": "setting_lensInfo_minimum_focus_distance",
+      "value": "Nearest focus distance"
+    },
+    {
+      "name": "setting_lensInfo_hyperfocal_distance",
+      "value": "Distância hiperfocal"
+    },
+    {
+      "name": "setting_lens_distortion",
+      "value": "LensDistortion"
+    },
+    {
+      "name": "setting_focus_length",
+      "value": "Focal length"
+    },
+    {
+      "name": "setting_face_detetction",
+      "value": "FaceDetection"
+    },
+    {
+      "name": "setting_video_stabilization_mode",
+      "value": "VideoStabilizationMode"
+    },
+    {
+      "name": "setting_stabilization_mode",
+      "value": "StabilizationMode"
+    },
+    {
+      "name": "setting_color_correction_available_aberration_mode",
+      "value": "ColorDifference"
+    },
+    {
+      "name": "setting_color_effect",
+      "value": "ColorEffect"
+    },
+    {
+      "name": "setting_scene_mode",
+      "value": "SceneMode"
+    },
+    {
+      "name": "setting_aperture",
+      "value": "Aperture"
+    },
+    {
+      "name": "txt_tips_camera_error_restart_application",
+      "value": "Erro Da câmera, reinicie a aplicação"
+    },
+    {
+      "name": "this_is_the_first_page",
+      "value": "Esta é a primeira página"
+    },
+    {
+      "name": "tv_always_display_qc_panel",
+      "value": "Exibir sempre o painel QC"
+    },
+    {
+      "name": "tv_quality_key",
+      "value": "Qualidade:"
+    },
+    {
+      "name": "tv_qtversion_key",
+      "value": "QT Versão:"
+    },
+    {
+      "name": "message_download_completed",
+      "value": "O download está completo"
+    },
+    {
+      "name": "install_unknown_apps",
+      "value": "Clique em instalar aplicativos desconhecidos"
+    },
+    {
+      "name": "click_on_the_back_button",
+      "value": "Clique no botão voltar"
+    },
+    {
+      "name": "txt_tips_long_time_no_identify",
+      "value": "Não foi possível identificar os produtos. Consulte outro GUIA DO USUÁRIO."
+    },
+    {
+      "name": "web_clear_cache",
+      "value": "Limpar cache"
+    },
+    {
+      "name": "txt_do_web_clear_cache",
+      "value": "Deseja limpar o cache do navegador?"
+    },
+    {
+      "name": "txt_app_permission_setting",
+      "value": "Configurações de permissão"
+    },
+    {
+      "name": "txt_allow_agreement",
+      "value": "Li e permito o seguinte acordo"
+    },
+    {
+      "name": "txt_allow",
+      "value": "Permitir"
+    },
+    {
+      "name": "txt_not_allow",
+      "value": "Não permitido"
+    },
+    {
+      "name": "txt_allow_agreement_tips",
+      "value": "Gracias por usar QT. Antes de comenzar a usarlo, asegúrese de leer detenidamente los siguientes términos y condiciones. Si ha leído y está de acuerdo con los términos a continuación, haga clic en Acepto para comenzar a usar esta aplicación. Si no está de acuerdo, la aplicación no funcionará correctamente"
+    },
+    {
+      "name": "txt_read_and_allow",
+      "value": "Li e concordo com os seguintes termos e condições"
+    },
+    {
+      "name": "txt_allow_agreement_first",
+      "value": "Certifique-se de ler atentamente e concordar com o seguinte contrato de privacidade e licença de software e contrato de serviço."
+    },
+    {
+      "name": "text_bluetooth",
+      "value": "Bluetooth"
+    },
+    {
+      "name": "text_detector",
+      "value": "Detector"
+    },
+    {
+      "name": "text_enabled",
+      "value": "Habilitado"
+    },
+    {
+      "name": "text_device_found",
+      "value": "Dispositivos Bluetooth"
+    },
+    {
+      "name": "text_make_device_found",
+      "value": "Verifique se o bluetooth está ativado."
+    },
+    {
+      "name": "text_bonded_bluetooth_list",
+      "value": "Lista de dispositivos vinculados"
+    },
+    {
+      "name": "text_discover_bluetooth_requires_gps",
+      "value": "Dispositivos de descoberta bluetooth requerem GPS."
+    },
+    {
+      "name": "text_turn_on_bluetooth",
+      "value": "Por favor, ligue o Bluetooth."
+    },
+    {
+      "name": "text_not_supported_bluetooth",
+      "value": "Bluetooth não é suportado."
+    },
+    {
+      "name": "text_bluetooth_connect_failed",
+      "value": "Falha na conexão Bluetooth"
+    },
+    {
+      "name": "text_bluetooth_connect_success",
+      "value": "Bluetooth está conectado."
+    },
+    {
+      "name": "text_bluetooth_disconnect",
+      "value": "O Bluetooth está desconectado."
+    },
+    {
+      "name": "text_bluetooth_auto_connect",
+      "value": "Conexão automática"
+    },
+    {
+      "name": "message_bluetooth_battery_warning",
+      "value": "O detector está com bateria fraca."
+    },
+    {
+      "name": "message_bluetooth_error_require_reboot",
+      "value": "O Bluetooth está anormal. O APP precisa reiniciar"
+    },
+    {
+      "name": "message_file_transfer_progress",
+      "value": "Progresso"
+    },
+    {
+      "name": "text_cannot_update_bluetooth_by_low_battery",
+      "value": "A bateria está muito fraca (abaixo de 50%) para atualizar o Bluetooth"
+    },
+    {
+      "name": "text_bluetooth_is_auto_connect_while_startup",
+      "value": "Quer se conectar automaticamente ao detector QT após o início do aplicativo?"
+    },
+    {
+      "name": "text_bluetooth_show_on_main",
+      "value": "Estado do Bluetooth"
+    },
+    {
+      "name": "text_no_a_qt_detector",
+      "value": "Este não é um detector QT"
+    },
+    {
+      "name": "text_qt_detector_name_like",
+      "value": "O detector QT começa com QT, como: QT12345678"
+    },
+    {
+      "name": "txt_bluetooth_guide_title1",
+      "value": "Informações do detector"
+    },
+    {
+      "name": "txt_bluetooth_guide_title2",
+      "value": "Inicialização e desligamento"
+    },
+    {
+      "name": "txt_bluetooth_guide_title3",
+      "value": "Conectar ao aplicativo"
+    },
+    {
+      "name": "txt_bluetooth_guide_title4",
+      "value": "Identificação"
+    },
+    {
+      "name": "txt_bluetooth_guide_content1",
+      "value": "Marca ①: Luz de sinal da bateria (laranja)\nMarca ②: Luz de sinal Bluetooth (azul)\nMarca ③: Luz de sinal de varredura (verde)\nMarca ④: Botão liga/desliga\nMarca ⑤: Porta de carregamento USB\nMarca ⑥: Palestrante\nMarca ⑦: Ponto de toque ao escanear"
+    },
+    {
+      "name": "txt_bluetooth_guide_content2",
+      "value": "Pressione e segure o botão liga/desliga (marca ③) por 3 segundos, o detector vibrará uma vez e a luz do sinal Bluetooth (marca ②, azul) continuará a piscar\nQuando o detector for iniciado, pressione e segure o botão liga / desliga (marcado ②) novamente por 3 segundos, o detector será desligado e todas as luzes de sinalização se apagarão"
+    },
+    {
+      "name": "txt_bluetooth_guide_content3",
+      "value": "Os detectores QT começam com QT na lista de varredura\nClique no detector QT na lista de varredura, depois que a conexão for bem-sucedida, o detector QT vibrará. \nDepois disso, a luz do sinal Bluetooth do detector ficará acesa o tempo todo"
+    },
+    {
+      "name": "txt_bluetooth_guide_content4",
+      "value": "Toque a cabeça do detector no código QT e o testador enviará o resultado do reconhecimento para o aplicativo. \nQuando o reconhecimento for bem-sucedido, o aplicativo exibirá o resultado do reconhecimento."
+    },
+    {
+      "name": "txt_professional_model",
+      "value": "Modelo profissional"
+    },
+    {
+      "name": "txt_pro",
+      "value": "Pro"
+    },
+    {
+      "name": "txt_auto_camera",
+      "value": "Câmera automática"
+    },
+    {
+      "name": "txt_ultra_wide",
+      "value": "Câmera ultra grande angular"
+    },
+    {
+      "name": "txt_tips_recognize_distance_inch1",
+      "value": "Az azonosítási távolság körülbelül 2.5 cm / 1 hüvelyk"
+    },
+    {
+      "name": "txt_tips_recognize_distance_inch2",
+      "value": "Az azonosítási távolság körülbelül 5 cm / 2 hüvelyk"
+    },
+    {
+      "name": "txt_tips_recognize_distance_inch3",
+      "value": "Az azonosítási távolság körülbelül 8 cm / 3 hüvelyk"
+    },
+    {
+      "name": "txt_tips_recognize_distance_inch4",
+      "value": "Az azonosítási távolság körülbelül 10 cm / 4 hüvelyk"
+    },
+    {
+      "name": "txt_tips_recognize_distance_inch5",
+      "value": "Az azonosítási távolság körülbelül 12 cm / 5 hüvelyk"
+    },
+    {
+      "name": "txt_tips_recognize_distance_inch6",
+      "value": "Az azonosítási távolság körülbelül 15 cm / 6 hüvelyk"
+    },
+    {
+      "name": "txt_tips_recognize_distance_inch7",
+      "value": "Az azonosítási távolság körülbelül 17 cm / 7 hüvelyk"
+    },
+    {
+      "name": "txt_tips_recognize_distance_inch8",
+      "value": "Az azonosítási távolság körülbelül 20 cm / 8 hüvelyk"
+    },
+    {
+      "name": "setting_view_angle",
+      "value": "Angle of view"
+    },
+    {
+      "name": "camera_wide_angle",
+      "value": "Grande angular"
+    },
+    {
+      "name": "camera_ultra_wide_angle",
+      "value": "Ultra grande angular"
+    },
+    {
+      "name": "camera_telephoto",
+      "value": "Telefoto"
+    },
+    {
+      "name": "camera_macro",
+      "value": "Macro"
+    },
+    {
+      "name": "setting_focal_length",
+      "value": "Distância focal"
+    },
+    {
+      "name": "setting_equivalent_focal_length",
+      "value": "Distância focal equivalente"
+    },
+    {
+      "name": "txt_camera",
+      "value": "Câmera"
+    },
+    {
+      "name": "setting_associated_ids",
+      "value": "IDs associados"
+    },
+    {
+      "name": "setting_support_multi_focal_length",
+      "value": "Suporte Distância focal múltipla"
+    },
+    {
+      "name": "text_access_external_storage",
+      "value": "Acesso ao armazenamento externo"
+    },
+    {
+      "name": "bluetooth_permission_reason",
+      "value": "Usado para conectar dispositivos Bluetooth para transmissão de dados"
+    },
+    {
+      "name": "text_check_network_status",
+      "value": "Usado para verificar o status da conexão de rede"
+    },
+    {
+      "name": "module_desc",
+      "value": "descrição do módulo"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "descrição"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "QT"
+    },
+    {
+      "name": "permission_CAMERA",
+      "value": "Para operações da câmera"
+    },
+    {
+      "name": "reason_media_location",
+      "value": "Para cenários onde a câmera obtém informações de mídia"
+    },
+    {
+      "name": "reason_write_imagevideo",
+      "value": "Para ler e escrever arquivos de mídia com a câmera"
+    },
+    {
+      "name": "reason_read_imagevideo",
+      "value": "Para leitura/gravação de arquivos de mídia da câmera"
+    },
+    {
+      "name": "permission_LOCATION",
+      "value": "Para localização"
+    }
+  ]
+}

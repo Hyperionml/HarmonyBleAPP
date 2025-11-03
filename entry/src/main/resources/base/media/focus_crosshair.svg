@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="120dp"
+     height="120dp"
+     viewBox="0 0 1024 1024">
+
+    <!-- 矩形框四条边 - 统一24像素宽度 -->
+    <path fill="#BFBFBF"
+          d="M192 192 L832 192 L832 216 L192 216 Z
+             M192 192 L216 192 L216 832 L192 832 Z
+             M192 808 L832 808 L832 832 L192 832 Z
+             M808 192 L832 192 L832 832 L808 832 Z" />
+
+    <!-- 上方十字线 -->
+    <path fill="#BFBFBF"
+          d="M500 192 L524 192 L524 272 L500 272 Z" />
+
+    <!-- 下方十字线 -->
+    <path fill="#BFBFBF"
+          d="M500 752 L524 752 L524 832 L500 832 Z" />
+
+    <!-- 左侧十字线 -->
+    <path fill="#BFBFBF"
+          d="M192 500 L272 500 L272 524 L192 524 Z" />
+
+    <!-- 右侧十字线 -->
+    <path fill="#BFBFBF"
+          d="M752 500 L832 500 L832 524 L752 524 Z" />
+
+</svg>

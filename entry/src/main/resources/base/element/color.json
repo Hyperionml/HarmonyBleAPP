@@ -1,0 +1,80 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "lightGray",
+      "value": "#F5F5F5"
+    },
+    {
+      "name": "colorPrimary",
+      "value": "#1DE9B6"
+    },
+    {
+      "name": "colorPrimaryDark",
+      "value": "#1DE9B6"
+    },
+    {
+      "name": "colorAccent",
+      "value": "#FF5722"
+    },
+    {
+      "name": "white",
+      "value": "#FFFFFF"
+    },
+
+
+    {
+      "name": "ThemeColorGray",
+      "value": "#8E8E93"
+    },
+    {
+      "name": "graySelectColor",
+      "value": "#B4B4B4"
+    },
+    {
+      "name": "ThemeColorGreen",
+      "value": "#00C853"
+    },
+    {
+      "name": "greenSelectColor",
+      "value": "#9043ea"
+    },
+    {
+      "name": "ThemeColorOrange",
+      "value": "#FF9500"
+    },
+    {
+      "name": "ThemeColorRed",
+      "value": "#FF3B30"
+    },
+    {
+      "name": "ThemeColorYellow",
+      "value": "#FFCC00"
+    },
+    {
+      "name": "ThemeColorBlue",
+      "value": "#559BE9"
+    },
+    {
+      "name": "redSelectColor",
+      "value": "#1CDEE4"
+    },
+    {
+      "name": "yellowSelectColor",
+      "value": "#2A1EDA"
+    },
+
+
+    {
+      "name": "lineColor",
+      "value": "#d3d3d3"
+    },
+    {
+      "name": "languageSettingFontColor",
+      "value": "#888888"
+    }
+  ]
+}

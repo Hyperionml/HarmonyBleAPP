@@ -1,0 +1,15 @@
+{
+  "name": "devices",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "packageType": "InterfaceHar",
+  "dependencies": {
+    "@ohos/fastble": "file:../library/ble",
+    "common": "file:../common",
+    "@ohos/zxing": "file:../library/zxing",
+    "decoder": "file:./hars/decoder.har"
+  }
+}

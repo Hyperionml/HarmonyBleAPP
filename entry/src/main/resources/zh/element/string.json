@@ -1,0 +1,1252 @@
+{
+  "string": [
+    {
+      "name": "txt_no_camera_permission",
+      "value": "未授权获取相机权限，无法使用QT"
+    },
+    {
+      "name": "txt_exit",
+      "value": "退出"
+    },
+    {
+      "name": "tips_double_click_exit",
+      "value": "再次点击将退出程序。"
+    },
+    {
+      "name": "confirm_exit",
+      "value": "是否退出程序？"
+    },
+    {
+      "name": "tips_result_copy_to_clip_board",
+      "value": "已将解析结果复制到粘贴板。"
+    },
+    {
+      "name": "txt_camera_disabled",
+      "value": "无法使用摄像头."
+    },
+    {
+      "name": "permission_title",
+      "value": "权限申请"
+    },
+    {
+      "name": "permission_content",
+      "value": "请允许使用网络、磁盘、摄像头、GPS权限。"
+    },
+    {
+      "name": "txt_require_album_permission",
+      "value": "App需要您的相册，用于保存与读取截图。"
+    },
+    {
+      "name": "txt_require_camera_permission",
+      "value": "App需要使用相机，才能识别QT码。"
+    },
+    {
+      "name": "txt_require_location_permission",
+      "value": "App需要您的位置信息，以辅助鉴定您的商品是否正品。"
+    },
+    {
+      "name": "txt_require_bluetooth",
+      "value": "App需要使用蓝牙与GPS去连接QT设备。"
+    },
+    {
+      "name": "txt_require_gps",
+      "value": "请打开GPS。"
+    },
+    {
+      "name": "dialog_result_yes",
+      "value": "是"
+    },
+    {
+      "name": "dialog_result_no",
+      "value": "否"
+    },
+    {
+      "name": "app_bar_tool",
+      "value": "工具"
+    },
+    {
+      "name": "app_bar_setting",
+      "value": "设置"
+    },
+    {
+      "name": "btn_feedback",
+      "value": "反馈"
+    },
+    {
+      "name": "btn_help",
+      "value": "帮助"
+    },
+    {
+      "name": "btn_share",
+      "value": "分享"
+    },
+    {
+      "name": "btn_Album",
+      "value": "相册"
+    },
+    {
+      "name": "back",
+      "value": "返回"
+    },
+    {
+      "name": "app_bar_light_on",
+      "value": "开灯"
+    },
+    {
+      "name": "app_bar_light_off",
+      "value": "关灯"
+    },
+    {
+      "name": "tool_zoom",
+      "value": "缩放:"
+    },
+    {
+      "name": "tool_focus_time",
+      "value": "聚焦时间:"
+    },
+    {
+      "name": "theme",
+      "value": "主题"
+    },
+    {
+      "name": "language",
+      "value": "语言"
+    },
+    {
+      "name": "language_changed_tips",
+      "value": "修改了显示语言，请重新启动程序。"
+    },
+    {
+      "name": "txt_server_url",
+      "value": "http://113.108.141.10:922/QCC/shanghai2018.html?id="
+    },
+    {
+      "name": "txt_decode_result",
+      "value": "解析结果"
+    },
+    {
+      "name": "dialog_title",
+      "value": "标题"
+    },
+    {
+      "name": "dialog_title_versom_name",
+      "value": "1.0.0"
+    },
+    {
+      "name": "dialog_title_install",
+      "value": "安装新版本"
+    },
+    {
+      "name": "dialog_title_update",
+      "value": "安装新版本"
+    },
+    {
+      "name": "dialog_yes_install_now",
+      "value": "立即安装"
+    },
+    {
+      "name": "dialog_yes_update_now",
+      "value": "立即更新"
+    },
+    {
+      "name": "dialog_no_install_late",
+      "value": "稍后安装"
+    },
+    {
+      "name": "dialog_no_update_late",
+      "value": "忽略此版本"
+    },
+    {
+      "name": "dialog_no_update_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "message_version_updating",
+      "value": "版本更新"
+    },
+    {
+      "name": "message_downloading",
+      "value": "正在下载..."
+    },
+    {
+      "name": "message_open_access",
+      "value": "更新App需要开启允许安装未知应用"
+    },
+    {
+      "name": "message_confirm_permission",
+      "value": "无权限安装，不安装更新"
+    },
+    {
+      "name": "toast_text_error",
+      "value": "下载错误"
+    },
+    {
+      "name": "decode_error_destroy",
+      "value": "当前区域被严重破坏，请扫描其他区域"
+    },
+    {
+      "name": "decode_error_offline",
+      "value": "网络异常"
+    },
+    {
+      "name": "feedback_tv_title",
+      "value": "反馈"
+    },
+    {
+      "name": "feedback_tv_phonenumber",
+      "value": "电话号码："
+    },
+    {
+      "name": "feedback_et_phonenumber_hint",
+      "value": "请输入你的电话号码"
+    },
+    {
+      "name": "feedback_tv_chk_title",
+      "value": "意见反馈："
+    },
+    {
+      "name": "feedback_chk_question1",
+      "value": "扫描出错"
+    },
+    {
+      "name": "feedback_chk_question2",
+      "value": "不知道应该怎么使用App"
+    },
+    {
+      "name": "feedback_chk_question3",
+      "value": "程序经常崩溃"
+    },
+    {
+      "name": "feedback_chk_question4",
+      "value": "摄像头抖动很厉害"
+    },
+    {
+      "name": "feedback_chk_question5",
+      "value": "图像很清晰，但无法识别码"
+    },
+    {
+      "name": "feedback_chk_question6",
+      "value": "摄像头很模糊"
+    },
+    {
+      "name": "feedback_chk_question7",
+      "value": "其他"
+    },
+    {
+      "name": "feedback_et_feedback_hint",
+      "value": "请详细描述你遇到的问题"
+    },
+    {
+      "name": "feedback_et_photograph",
+      "value": "添加图片"
+    },
+    {
+      "name": "feedback_btn_submit",
+      "value": "提 交"
+    },
+    {
+      "name": "feedback_tip_et_phonenumber",
+      "value": "电话号码格式不对"
+    },
+    {
+      "name": "feedback_tip_et_phonenumber1",
+      "value": "请输入电话号码"
+    },
+    {
+      "name": "feedback_tip_submit",
+      "value": "提交成功"
+    },
+    {
+      "name": "feedback_tip_feedback_content",
+      "value": "请选择或者输入反馈内容"
+    },
+    {
+      "name": "txt_share",
+      "value": "分享"
+    },
+    {
+      "name": "btn_plus",
+      "value": "Plus"
+    },
+    {
+      "name": "txt_loading",
+      "value": "加载中..."
+    },
+    {
+      "name": "feedback_tip_defeated",
+      "value": "反馈信息提交失败"
+    },
+    {
+      "name": "feedback_tip_success",
+      "value": "反馈信息提交成功"
+    },
+    {
+      "name": "feedback_tip_failure",
+      "value": "上传反馈图片失败"
+    },
+    {
+      "name": "btn_Screenshot",
+      "value": "截图"
+    },
+    {
+      "name": "ios",
+      "value": "IOS"
+    },
+    {
+      "name": "share_dialog_title",
+      "value": "二维码"
+    },
+    {
+      "name": "feedback_btn_pick",
+      "value": "拍照"
+    },
+    {
+      "name": "feendback_btn_image_result_code",
+      "value": "从相册选择"
+    },
+    {
+      "name": "feedback_btn_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "android",
+      "value": "Android"
+    },
+    {
+      "name": "reset",
+      "value": "Reset"
+    },
+    {
+      "name": "decode",
+      "value": "Decode"
+    },
+    {
+      "name": "feedback_loading",
+      "value": "正在提交"
+    },
+    {
+      "name": "about_app",
+      "value": "关于App"
+    },
+    {
+      "name": "setting_versionname",
+      "value": "当前版本号"
+    },
+    {
+      "name": "txt_decode_loading",
+      "value": "已经扫描，正在处理"
+    },
+    {
+      "name": "currentlanguage",
+      "value": "简体中文"
+    },
+    {
+      "name": "settings_save",
+      "value": "保存"
+    },
+    {
+      "name": "necessary",
+      "value": "Necessary"
+    },
+    {
+      "name": "qt_code",
+      "value": "QT Code"
+    },
+    {
+      "name": "_2_d_symbology",
+      "value": "2-D SYMBOLOGY"
+    },
+    {
+      "name": "aztec",
+      "value": "Aztec"
+    },
+    {
+      "name": "datamatrix",
+      "value": "DataMatrix"
+    },
+    {
+      "name": "maxicode",
+      "value": "MaxiCode"
+    },
+    {
+      "name": "qrcode",
+      "value": "QRcode"
+    },
+    {
+      "name": "_1_d_symbology",
+      "value": "1-D SYMBOLOGY"
+    },
+    {
+      "name": "codabar",
+      "value": "Codabar"
+    },
+    {
+      "name": "itf",
+      "value": "ITF"
+    },
+    {
+      "name": "code128",
+      "value": "Code128"
+    },
+    {
+      "name": "code39",
+      "value": "Code39"
+    },
+    {
+      "name": "code93",
+      "value": "Code93"
+    },
+    {
+      "name": "ean13",
+      "value": "Ean13"
+    },
+    {
+      "name": "ean8",
+      "value": "Ean8"
+    },
+    {
+      "name": "upca",
+      "value": "UPCA"
+    },
+    {
+      "name": "upce",
+      "value": "UPCE"
+    },
+    {
+      "name": "upceanextension",
+      "value": "UPCEANEXtension"
+    },
+    {
+      "name": "stacked",
+      "value": "STACKED"
+    },
+    {
+      "name": "pdf417",
+      "value": "PDF417"
+    },
+    {
+      "name": "rss14",
+      "value": "RSS14"
+    },
+    {
+      "name": "rssexpanded",
+      "value": "RSSExpanded"
+    },
+    {
+      "name": "fit_image",
+      "value": "同比缩放"
+    },
+    {
+      "name": "square",
+      "value": "1:1"
+    },
+    {
+      "name": "_3_4",
+      "value": "3:4"
+    },
+    {
+      "name": "_4_3",
+      "value": "4:3"
+    },
+    {
+      "name": "_9_16",
+      "value": "9:16"
+    },
+    {
+      "name": "_16_9",
+      "value": "16:9"
+    },
+    {
+      "name": "free",
+      "value": "任意比例"
+    },
+    {
+      "name": "_7_5",
+      "value": "7:5"
+    },
+    {
+      "name": "circle",
+      "value": "圆形"
+    },
+    {
+      "name": "circle_square",
+      "value": "CIRCLE_SQUARE"
+    },
+    {
+      "name": "title_product",
+      "value": "产品"
+    },
+    {
+      "name": "popdown",
+      "value": "收起"
+    },
+    {
+      "name": "code",
+      "value": "码:"
+    },
+    {
+      "name": "decode_time",
+      "value": "Decode Time:"
+    },
+    {
+      "name": "popup",
+      "value": "弹出"
+    },
+    {
+      "name": "decoder",
+      "value": "解码器"
+    },
+    {
+      "name": "whether_to_turn_on_sound",
+      "value": "声音"
+    },
+    {
+      "name": "whether_to_open_vibration",
+      "value": "震动"
+    },
+    {
+      "name": "current_version_numbe",
+      "value": "当前版本号"
+    },
+    {
+      "name": "login",
+      "value": "登录"
+    },
+    {
+      "name": "please_enter_a_user_name",
+      "value": "请输入用户名"
+    },
+    {
+      "name": "please_enter_your_password",
+      "value": "请输入密码"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "logout",
+      "value": "未登录"
+    },
+    {
+      "name": "title",
+      "value": "标题"
+    },
+    {
+      "name": "delete",
+      "value": "删除"
+    },
+    {
+      "name": "submit",
+      "value": "提交"
+    },
+    {
+      "name": "there_is_no_code",
+      "value": "没有可以销毁的code"
+    },
+    {
+      "name": "not_logged_in_yet",
+      "value": "还没有登录，请先登录再提交"
+    },
+    {
+      "name": "please_select_to_delete_code",
+      "value": "请选择要删除的Code"
+    },
+    {
+      "name": "are_you_sure_you_want_to_delete_the_codes",
+      "value": "确定删除codes吗"
+    },
+    {
+      "name": "successfully_deleted",
+      "value": "删除成功"
+    },
+    {
+      "name": "are_you_sure_to_submit",
+      "value": "确定提交吗"
+    },
+    {
+      "name": "give_up_the_modification",
+      "value": "放弃修改"
+    },
+    {
+      "name": "zxing_decoding_success",
+      "value": "zxing 解码成功:"
+    },
+    {
+      "name": "already_canceled_decoding",
+      "value": "已经取消解码"
+    },
+    {
+      "name": "code_map_is_destroyed",
+      "value": "码图被破坏，无法正常解码"
+    },
+    {
+      "name": "unknown_exception",
+      "value": "未知异常"
+    },
+    {
+      "name": "server_error",
+      "value": "服务器出错"
+    },
+    {
+      "name": "network_anomaly",
+      "value": "网络异常"
+    },
+    {
+      "name": "network_error",
+      "value": "网络错误，请检查网络状态"
+    },
+    {
+      "name": "setting_up_the_network",
+      "value": "设置网络"
+    },
+    {
+      "name": "the_modification_succeeded_and_is_being_restarted",
+      "value": "修改成功，正在重新启动"
+    },
+    {
+      "name": "login_check_login",
+      "value": "自动登录"
+    },
+    {
+      "name": "login_check_password",
+      "value": "记住密码"
+    },
+    {
+      "name": "login_password",
+      "value": "密码"
+    },
+    {
+      "name": "login_account",
+      "value": "账号"
+    },
+    {
+      "name": "login_login",
+      "value": "登录"
+    },
+    {
+      "name": "login_logout",
+      "value": "登出"
+    },
+    {
+      "name": "login_title",
+      "value": "登录"
+    },
+    {
+      "name": "login_tip_name_and_password",
+      "value": "账号或密码不正确！"
+    },
+    {
+      "name": "login_tip_name",
+      "value": "账号不能为空！"
+    },
+    {
+      "name": "login_tip_password",
+      "value": "密码不能为空！"
+    },
+    {
+      "name": "login_tip_login_Success",
+      "value": "登录成功！"
+    },
+    {
+      "name": "login_tip_logout",
+      "value": "账号已经退出登录！"
+    },
+    {
+      "name": "txt_barcode_supported",
+      "value": "开启QR Code、Barcode识别"
+    },
+    {
+      "name": "txt_qtcode_supported",
+      "value": "开启QT code识别"
+    },
+    {
+      "name": "txt_title_guide1",
+      "value": "什么是QT码?"
+    },
+    {
+      "name": "txt_title_guide2",
+      "value": "识别距离约为10厘米/4英寸"
+    },
+    {
+      "name": "txt_title_guide2_longer",
+      "value": "识别距离约为12厘米/5英寸"
+    },
+    {
+      "name": "txt_title_guide3",
+      "value": "亮度适中，不宜太亮、太暗"
+    },
+    {
+      "name": "txt_title_guide4",
+      "value": "如果标签有皱纹，请用手指摊平"
+    },
+    {
+      "name": "txt_title_guide5",
+      "value": "鉴定完成时，会呈现商品信息"
+    },
+    {
+      "name": "btn_enter",
+      "value": "进入"
+    },
+    {
+      "name": "btn_update",
+      "value": "检查更新"
+    },
+    {
+      "name": "update_required",
+      "value": "已经是最新版本，不需要更新"
+    },
+    {
+      "name": "dialog_waiting",
+      "value": "请稍等…"
+    },
+    {
+      "name": "dialog_close",
+      "value": "关闭"
+    },
+    {
+      "name": "dialog_copy_all",
+      "value": "复制全部"
+    },
+    {
+      "name": "txt_header_guide1",
+      "value": "1、QT"
+    },
+    {
+      "name": "txt_header_guide2",
+      "value": "2、距离"
+    },
+    {
+      "name": "txt_header_guide3",
+      "value": "3、亮度"
+    },
+    {
+      "name": "txt_header_guide4",
+      "value": "4、平滑"
+    },
+    {
+      "name": "txt_header_guide5",
+      "value": "5、鉴定"
+    },
+    {
+      "name": "identify_effect",
+      "value": "识别特效"
+    },
+    {
+      "name": "feedback_section0",
+      "value": "电话号码（必填）"
+    },
+    {
+      "name": "feedback_section1",
+      "value": "问题反馈（必填）"
+    },
+    {
+      "name": "feedback_section2",
+      "value": "具体问题（选填）"
+    },
+    {
+      "name": "feedback_section3",
+      "value": "图片（选填，提供问题的截图）"
+    },
+    {
+      "name": "score",
+      "value": "去评分"
+    },
+    {
+      "name": "official_website",
+      "value": "官网"
+    },
+    {
+      "name": "bsn",
+      "value": "宝绅"
+    },
+    {
+      "name": "privacy_policy",
+      "value": "《隐私政策》"
+    },
+    {
+      "name": "contract_protocol",
+      "value": "《QT软件许可及服务协议》"
+    },
+    {
+      "name": "and",
+      "value": "和"
+    },
+    {
+      "name": "failed_to_get_the_update_information",
+      "value": "获取更新信息失败"
+    },
+    {
+      "name": "setting_camera",
+      "value": "摄像头参数详细设置"
+    },
+    {
+      "name": "setting_cameraid",
+      "value": "摄像头ID(级别)"
+    },
+    {
+      "name": "setting_apilevel",
+      "value": "Api"
+    },
+    {
+      "name": "setting_camera_level",
+      "value": "API支持程度(API2特有):"
+    },
+    {
+      "name": "setting_zoom",
+      "value": "缩放率"
+    },
+    {
+      "name": "setting_focusDistance",
+      "value": "对焦距离"
+    },
+    {
+      "name": "setting_exposuretime",
+      "value": "曝光时间"
+    },
+    {
+      "name": "setting_exposure_compensation",
+      "value": "曝光补偿"
+    },
+    {
+      "name": "setting_iso",
+      "value": "ISO感光度"
+    },
+    {
+      "name": "setting_frame_duration",
+      "value": "帧间隔(纳秒)"
+    },
+    {
+      "name": "setting_mode",
+      "value": "模式"
+    },
+    {
+      "name": "setting_picture_size",
+      "value": "照片尺寸"
+    },
+    {
+      "name": "setting_picture_format",
+      "value": "照片格式"
+    },
+    {
+      "name": "setting_preview_size",
+      "value": "预览尺寸"
+    },
+    {
+      "name": "setting_preview_format",
+      "value": "预览格式"
+    },
+    {
+      "name": "setting_auto_focus_mode",
+      "value": "对焦模式"
+    },
+    {
+      "name": "setting_auto_focus_trigger",
+      "value": "对焦触发状态"
+    },
+    {
+      "name": "setting_auto_exposure_mode",
+      "value": "自动曝光"
+    },
+    {
+      "name": "setting_auto_white_balance_mode",
+      "value": "自动白平衡"
+    },
+    {
+      "name": "setting_noise_reduction_mode",
+      "value": "降噪模式"
+    },
+    {
+      "name": "setting_flash_mode",
+      "value": "闪光灯"
+    },
+    {
+      "name": "setting_physical_size",
+      "value": "传感器的物理尺寸"
+    },
+    {
+      "name": "setting_pixel_size",
+      "value": "传感器的像素尺寸"
+    },
+    {
+      "name": "setting_sensor_active_array_size",
+      "value": "几何畸变校正后，传感器活动像素"
+    },
+    {
+      "name": "setting_sensorpre_aorrection_active_array_size",
+      "value": "几何畸变校正前，传感器活动像素"
+    },
+    {
+      "name": "setting_focus_distance_calibration",
+      "value": "镜头对焦距离校准质量"
+    },
+    {
+      "name": "setting_lensInfo_minimum_focus_distance",
+      "value": "最近对焦距离"
+    },
+    {
+      "name": "setting_lensInfo_hyperfocal_distance",
+      "value": "镜头的超焦距"
+    },
+    {
+      "name": "setting_lens_distortion",
+      "value": "校正系数"
+    },
+    {
+      "name": "setting_focus_length",
+      "value": "焦距"
+    },
+    {
+      "name": "setting_face_detetction",
+      "value": "人脸检测"
+    },
+    {
+      "name": "setting_video_stabilization_mode",
+      "value": "视频防抖"
+    },
+    {
+      "name": "setting_stabilization_mode",
+      "value": "OIS光学防抖"
+    },
+    {
+      "name": "setting_color_correction_available_aberration_mode",
+      "value": "色差"
+    },
+    {
+      "name": "setting_color_effect",
+      "value": "色彩效果"
+    },
+    {
+      "name": "setting_scene_mode",
+      "value": "场景模式"
+    },
+    {
+      "name": "setting_aperture",
+      "value": "光圈"
+    },
+    {
+      "name": "setting_view_angle",
+      "value": "视角"
+    },
+    {
+      "name": "setting_auto_available_capabilities",
+      "value": "支持的功能列表"
+    },
+    {
+      "name": "txt_tips_camera_error_restart_application",
+      "value": "相机出现异常，重新启动应用"
+    },
+    {
+      "name": "this_is_the_first_page",
+      "value": "这是第一页"
+    },
+    {
+      "name": "tv_always_display_qc_panel",
+      "value": "始终显示QC面板"
+    },
+    {
+      "name": "tv_quality_key",
+      "value": "品质："
+    },
+    {
+      "name": "tv_qtversion_key",
+      "value": "QT版本："
+    },
+    {
+      "name": "message_download_completed",
+      "value": "下载完成"
+    },
+    {
+      "name": "install_unknown_apps",
+      "value": "点击允许来自此来源的应用"
+    },
+    {
+      "name": "click_on_the_back_button",
+      "value": "点击返回箭头"
+    },
+    {
+      "name": "txt_tips_long_time_no_identify",
+      "value": "未能赠别商品，请查看帮助文档。"
+    },
+    {
+      "name": "web_clear_cache",
+      "value": "清理缓存"
+    },
+    {
+      "name": "txt_do_web_clear_cache",
+      "value": "是否要清理浏览器缓存?"
+    },
+    {
+      "name": "txt_app_permission_setting",
+      "value": "权限设置"
+    },
+    {
+      "name": "txt_allow_agreement",
+      "value": "我已阅读并允许以下协议"
+    },
+    {
+      "name": "txt_allow_agreement_tips",
+      "value": "感谢您使用QT，在您正式开始使用之前，请务必审慎阅读下述协议条框。如果您已经阅读并同意下述条款，请点击同意开始使用此软件。若您不同意，将无法正常使用此软件"
+    },
+    {
+      "name": "txt_read_and_allow",
+      "value": "我已阅读并同意下述条款"
+    },
+    {
+      "name": "txt_allow_agreement_first",
+      "value": "请务必审慎阅读并同意下述隐私协议跟软件许可及服务协议！"
+    },
+    {
+      "name": "txt_allow",
+      "value": "同意"
+    },
+    {
+      "name": "txt_not_allow",
+      "value": "不同意"
+    },
+    {
+      "name": "text_bluetooth",
+      "value": "蓝牙"
+    },
+    {
+      "name": "text_detector",
+      "value": "探测器"
+    },
+    {
+      "name": "text_enabled",
+      "value": "启用"
+    },
+    {
+      "name": "text_device_found",
+      "value": "蓝牙设备"
+    },
+    {
+      "name": "text_make_device_found",
+      "value": "请确保蓝牙已开启"
+    },
+    {
+      "name": "text_bonded_bluetooth_list",
+      "value": "已配对设备"
+    },
+    {
+      "name": "text_discover_bluetooth_requires_gps",
+      "value": "查找蓝牙设备需要开启GPS。"
+    },
+    {
+      "name": "text_turn_on_bluetooth",
+      "value": "请开启蓝牙"
+    },
+    {
+      "name": "text_not_supported_bluetooth",
+      "value": "本设备不支持蓝牙！"
+    },
+    {
+      "name": "text_bluetooth_connect_failed",
+      "value": "蓝牙连接失败！"
+    },
+    {
+      "name": "text_bluetooth_connect_success",
+      "value": "蓝牙已连接。"
+    },
+    {
+      "name": "text_bluetooth_disconnect",
+      "value": "蓝牙已断开。"
+    },
+    {
+      "name": "text_bluetooth_auto_connect",
+      "value": "自动连接"
+    },
+    {
+      "name": "message_bluetooth_battery_warning",
+      "value": "探测器电量不足。"
+    },
+    {
+      "name": "message_bluetooth_error_require_reboot",
+      "value": "蓝牙异常，需要重启App！"
+    },
+    {
+      "name": "message_file_transfer_progress",
+      "value": "进度"
+    },
+    {
+      "name": "text_cannot_update_bluetooth_by_low_battery",
+      "value": "电量过低(低于50%)，无法更新蓝牙！"
+    },
+    {
+      "name": "text_bluetooth_is_auto_connect_while_startup",
+      "value": "是否在App启动后，自动连接QT探测器(蓝牙)？"
+    },
+    {
+      "name": "text_bluetooth_show_on_main",
+      "value": "蓝牙状态"
+    },
+    {
+      "name": "text_no_a_qt_detector",
+      "value": "这不是QT探测器"
+    },
+    {
+      "name": "text_qt_detector_name_like",
+      "value": "QT探测器是以QT开头的，如:QT12345678"
+    },
+    {
+      "name": "txt_bluetooth_guide_title1",
+      "value": "探测器介绍"
+    },
+    {
+      "name": "txt_bluetooth_guide_title2",
+      "value": "启动与关闭"
+    },
+    {
+      "name": "txt_bluetooth_guide_title3",
+      "value": "探测器接入"
+    },
+    {
+      "name": "txt_bluetooth_guide_title4",
+      "value": "扫描识别"
+    },
+    {
+      "name": "txt_bluetooth_guide_content1",
+      "value": "标注①:电量信号灯(橙黄色)\n标注②:蓝牙信号灯(蓝色)\n标注③:扫描信号灯(绿色)\n标注④:电源按键\n标注⑤:USB充电接口\n标注⑥小喇叭\n标注⑦:QT码扫描接触口"
+    },
+    {
+      "name": "txt_bluetooth_guide_content2",
+      "value": "按住电源按键(标注③)3秒，探测器会震动一下，蓝牙信号灯(标注②,蓝色)会持续闪烁\n当探测器启动后，再次按住电源按键(标注②)3秒，探测器会关机，所有信号灯都会熄灭"
+    },
+    {
+      "name": "txt_bluetooth_guide_content3",
+      "value": "App中，扫描列表中以QT开头的才是QT探测器。\n点击扫描列表中的QT探测器，连接成功后，QT探测器会震动。之后，探测器的蓝牙信号灯会一直亮着。"
+    },
+    {
+      "name": "txt_bluetooth_guide_content4",
+      "value": "将探测器的头部碰QT码，测试器会将识别结果发送至App。\n识别成功时，App会显示识别结果。"
+    },
+    {
+      "name": "txt_professional_model",
+      "value": "专业模式"
+    },
+    {
+      "name": "txt_pro",
+      "value": "专业模式"
+    },
+    {
+      "name": "txt_camera",
+      "value": "摄像头"
+    },
+    {
+      "name": "txt_auto_camera",
+      "value": "自动摄像头"
+    },
+    {
+      "name": "txt_ultra_wide",
+      "value": "超广角摄像头"
+    },
+    {
+      "name": "txt_tips_recognize_distance_inch1",
+      "value": "识别距离约为2.5厘米/1英寸"
+    },
+    {
+      "name": "txt_tips_recognize_distance_inch2",
+      "value": "识别距离约为5厘米/2英寸"
+    },
+    {
+      "name": "txt_tips_recognize_distance_inch3",
+      "value": "识别距离约为8厘米/3英寸"
+    },
+    {
+      "name": "txt_tips_recognize_distance_inch4",
+      "value": "识别距离约为10厘米/4英寸"
+    },
+    {
+      "name": "txt_tips_recognize_distance_inch5",
+      "value": "识别距离约为12厘米/5英寸"
+    },
+    {
+      "name": "txt_tips_recognize_distance_inch6",
+      "value": "识别距离约为15厘米/6英寸"
+    },
+    {
+      "name": "txt_tips_recognize_distance_inch7",
+      "value": "识别距离约为15厘米/7英寸"
+    },
+    {
+      "name": "txt_tips_recognize_distance_inch8",
+      "value": "识别距离约为15厘米/8英寸"
+    },
+    {
+      "name": "camera_wide_angle",
+      "value": "广角"
+    },
+    {
+      "name": "camera_ultra_wide_angle",
+      "value": "超广角"
+    },
+    {
+      "name": "camera_telephoto",
+      "value": "长焦"
+    },
+    {
+      "name": "camera_macro",
+      "value": "微距"
+    },
+    {
+      "name": "setting_focal_length",
+      "value": "焦距"
+    },
+    {
+      "name": "setting_equivalent_focal_length",
+      "value": "等效焦距"
+    },
+    {
+      "name": "setting_associated_ids",
+      "value": "关联ID"
+    },
+    {
+      "name": "setting_support_multi_focal_length",
+      "value": "支持多焦距"
+    },
+    {
+      "name": "text_access_external_storage",
+      "value": "访问外部存储"
+    },
+    {
+      "name": "bluetooth_permission_reason",
+      "value": "用于连接蓝牙设备进行数据传输"
+    },
+    {
+      "name": "text_check_network_status",
+      "value": "用于检查网络连接状态"
+    },
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "描述"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "QT"
+    },
+    {
+      "name": "permission_CAMERA",
+      "value": "用于相机操作"
+    },
+    {
+      "name": "reason_media_location",
+      "value": "用于相机获取媒体信息的场景"
+    },
+    {
+      "name": "reason_write_imagevideo",
+      "value": "用于相机读写媒体文件"
+    },
+    {
+      "name": "reason_read_imagevideo",
+      "value": "用于相机媒体文件读写"
+    },
+    {
+      "name": "permission_LOCATION",
+      "value": "用于定位"
+    }
+  ]
+}

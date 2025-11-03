@@ -1,0 +1,26 @@
+{
+  "src": [
+    "pages/SettingsPage",
+    "pages/IndexPage",
+    "pages/LoginPage",
+    "pages/AboutAppPage",
+    "pages/FeedbackPage",
+    "pages/GuidePage",
+    "pages/WebPage",
+    "pages/LanguageSettingPage",
+    "pages/ProModePage",
+    "pages/BluetoothPage",
+    "pages/BluetoothGuidePage",
+    "pages/SplashPage",
+    "pages/TestPage/CameraReaderTestPage",
+    "pages/TestPage/ScanPage",
+    "pages/TestPage/EventTestPage",
+    "pages/TestPage/CameraWorkerTestPage",
+    "pages/TestPage/CameraTestPage",
+    "pages/TestPage/Index",
+    "pages/TestPage/BailimlTestPage",
+    "pages/TestPage/DeviceManagerTestPage",
+    "pages/TestPage/ImageSaverPage",
+    "pages/IndexPageRefactored"
+  ]
+}

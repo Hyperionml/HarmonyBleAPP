@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "Ble",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}

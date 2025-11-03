@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "ZXing",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}

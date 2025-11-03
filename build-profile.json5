@@ -1,0 +1,132 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\huankang\\.ohos\\config\\default_HiddenCodeDemo_8qOV5g7L50-8RjpKRVaq2iR7gxJ315k7Nx3mWysd1eQ=.cer",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001ACC868578A89CACFCEC9834C6195A71D980D2ED94326C30DFB4A42054525546287BC7807BB87B",
+          "profile": "C:\\Users\\huankang\\.ohos\\config\\default_HiddenCodeDemo_8qOV5g7L50-8RjpKRVaq2iR7gxJ315k7Nx3mWysd1eQ=.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\huankang\\.ohos\\config\\default_HiddenCodeDemo_8qOV5g7L50-8RjpKRVaq2iR7gxJ315k7Nx3mWysd1eQ=.p12",
+          "storePassword": "0000001A77CFBDAEC44D702BF60892D925E7666EE47914D29A64CC066EA6A75DE335BD32414AE608B7E4"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "targetSdkVersion": "5.0.3(15)",
+        "compatibleSdkVersion": "5.0.3(15)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          },
+          "arkOptions": {
+            "buildProfileFields": {
+              "MAIN_SERVER": "https://baoshencode.gzbsit.com:10008",
+              "PRODUCT_SERVER": "https://baoshencode.gzbsit.com:10008/AppService",
+              "QC_LOGIN": "/api/user/qcLogin",
+              "USER_LOGIN": "/api/user/productInformationLogin",
+              "Privacy": "https://baoshencode.gzbsit.com:10008/Privacy.html",
+              "Contract": "https://baoshencode.gzbsit.com:10008/Contract.html",
+              "OfficialWebsiteUrl": "http://www.gzbsn.com/",
+              "APPLICATION_ID": "com.baoshen.hiddencode.app",
+              "CopyrightYear": '2025',
+              "RecordNumber": '',
+              "UsingSplashPage": true,
+              "BLE_MODE": true
+            }
+          }
+        }
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "devices",
+      "srcPath": "./devices",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "common",
+      "srcPath": "./common",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cameralib",
+      "srcPath": "./cameralib",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ZXing",
+      "srcPath": "./library/zxing",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ble",
+      "srcPath": "./library/ble",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

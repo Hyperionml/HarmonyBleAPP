@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "shared_desc",
+      "value": "description"
+    },
+    {
+      "name": "txt_require_bluetooth",
+      "value": "The App needs Bluetooth and GPS to connect to the QT device."
+    }
+  ]
+}

@@ -1,0 +1,1252 @@
+{
+    "string": [
+        {
+            "name": "txt_no_camera_permission",
+            "value": "Unauthorized camera access, unable to use QT"
+        },
+        {
+            "name": "txt_exit",
+            "value": "Exit"
+        },
+        {
+            "name": "tips_double_click_exit",
+            "value": "Click again to exit."
+        },
+        {
+            "name": "confirm_exit",
+            "value": "Do you want to quit the program?"
+        },
+        {
+            "name": "tips_result_copy_to_clip_board",
+            "value": "The parsing result has been copied to the clipboard."
+        },
+        {
+            "name": "txt_camera_disabled",
+            "value": "Unable to use camera."
+        },
+        {
+            "name": "permission_title",
+            "value": "Permission"
+        },
+        {
+            "name": "permission_content",
+            "value": "Please allow network, disk, camera, GPS permissions."
+        },
+        {
+            "name": "txt_require_album_permission",
+            "value": "The app needs your photo album to read or write screenshots."
+        },
+        {
+            "name": "txt_require_camera_permission",
+            "value": "The app needs to use the camera to recognize the barcode."
+        },
+        {
+            "name": "txt_require_location_permission",
+            "value": "The app needs your location to verify that whether your product is genuine or not."
+        },
+        {
+            "name": "txt_require_bluetooth",
+            "value": "The App needs Bluetooth and GPS to connect to the QT device."
+        },
+        {
+            "name": "txt_require_gps",
+            "value": "Please turn on GPS."
+        },
+        {
+            "name": "dialog_result_yes",
+            "value": "Yes"
+        },
+        {
+            "name": "dialog_result_no",
+            "value": "No"
+        },
+        {
+            "name": "app_bar_tool",
+            "value": "Tool"
+        },
+        {
+            "name": "app_bar_setting",
+            "value": "Setting"
+        },
+        {
+            "name": "btn_feedback",
+            "value": "Feedback"
+        },
+        {
+            "name": "btn_help",
+            "value": "Help"
+        },
+        {
+            "name": "btn_share",
+            "value": "Share"
+        },
+        {
+            "name": "btn_Album",
+            "value": "Album"
+        },
+        {
+            "name": "back",
+            "value": "Back"
+        },
+        {
+            "name": "app_bar_light_on",
+            "value": "Light on"
+        },
+        {
+            "name": "app_bar_light_off",
+            "value": "Light off"
+        },
+        {
+            "name": "tool_zoom",
+            "value": "Zoom:"
+        },
+        {
+            "name": "tool_focus_time",
+            "value": "Focus interval"
+        },
+        {
+            "name": "theme",
+            "value": "Theme"
+        },
+        {
+            "name": "language",
+            "value": "Language"
+        },
+        {
+            "name": "language_changed_tips",
+            "value": "Modified the display language, please restart this app."
+        },
+        {
+            "name": "txt_share",
+            "value": "Share"
+        },
+        {
+            "name": "btn_Screenshot",
+            "value": "Screenshot"
+        },
+        {
+            "name": "login_login",
+            "value": "Login"
+        },
+        {
+            "name": "txt_server_url",
+            "value": "http://113.108.141.10:922/QCC/shanghai2018.html?id="
+        },
+        {
+            "name": "txt_decode_result",
+            "value": "Analysis result"
+        },
+        {
+            "name": "dialog_title",
+            "value": "title"
+        },
+        {
+            "name": "dialog_title_versom_name",
+            "value": "1.0.0"
+        },
+        {
+            "name": "dialog_title_install",
+            "value": "Install new version"
+        },
+        {
+            "name": "dialog_title_update",
+            "value": "Install new version"
+        },
+        {
+            "name": "dialog_yes_install_now",
+            "value": "Install now"
+        },
+        {
+            "name": "dialog_yes_update_now",
+            "value": "Update"
+        },
+        {
+            "name": "dialog_no_install_late",
+            "value": "Install later"
+        },
+        {
+            "name": "dialog_no_update_late",
+            "value": "Ignore this version"
+        },
+        {
+            "name": "dialog_no_update_cancel",
+            "value": "Cancel"
+        },
+        {
+            "name": "message_version_updating",
+            "value": "New version update"
+        },
+        {
+            "name": "message_downloading",
+            "value": "Downloading..."
+        },
+        {
+            "name": "message_open_access",
+            "value": "Update app needs to be enabled to allow unknown apps to be installed"
+        },
+        {
+            "name": "message_confirm_permission",
+            "value": "No permission to install, no updates installed"
+        },
+        {
+            "name": "toast_text_error",
+            "value": "Download error"
+        },
+        {
+            "name": "decode_error_destroy",
+            "value": "The current area is badly damaged, please scan other areas"
+        },
+        {
+            "name": "decode_error_offline",
+            "value": "network anomaly"
+        },
+        {
+            "name": "feedback_tv_title",
+            "value": "Feedback"
+        },
+        {
+            "name": "feedback_tv_phonenumber",
+            "value": "telephone number:"
+        },
+        {
+            "name": "feedback_et_phonenumber_hint",
+            "value": "Please enter your phone number"
+        },
+        {
+            "name": "feedback_tv_chk_title",
+            "value": "Feedback:"
+        },
+        {
+            "name": "feedback_chk_question1",
+            "value": "Scan error"
+        },
+        {
+            "name": "feedback_chk_question2",
+            "value": "I don't know how to use the app"
+        },
+        {
+            "name": "feedback_chk_question3",
+            "value": "The app crashes from time to time"
+        },
+        {
+            "name": "feedback_chk_question4",
+            "value": "The camera shakes very badly"
+        },
+        {
+            "name": "feedback_chk_question5",
+            "value": "The image is very clear, but the code is not recognized"
+        },
+        {
+            "name": "feedback_chk_question6",
+            "value": "The camera is very blurry"
+        },
+        {
+            "name": "feedback_chk_question7",
+            "value": "Other"
+        },
+        {
+            "name": "feedback_et_feedback_hint",
+            "value": "Your suggest or suggestion"
+        },
+        {
+            "name": "feedback_et_photograph",
+            "value": "Add pictures"
+        },
+        {
+            "name": "feedback_btn_submit",
+            "value": "Submit"
+        },
+        {
+            "name": "feedback_tip_et_phonenumber",
+            "value": "Phone number format is incorrect"
+        },
+        {
+            "name": "feedback_tip_et_phonenumber1",
+            "value": "Please enter your phone number"
+        },
+        {
+            "name": "feedback_tip_submit",
+            "value": "Submitted successfully"
+        },
+        {
+            "name": "feedback_tip_feedback_content",
+            "value": "Please select or enter feedback"
+        },
+        {
+            "name": "btn_plus",
+            "value": "Plus"
+        },
+        {
+            "name": "txt_loading",
+            "value": "Loading..."
+        },
+        {
+            "name": "feedback_tip_defeated",
+            "value": "Feedback submission failed"
+        },
+        {
+            "name": "feedback_tip_success",
+            "value": "Feedback submitted successfully"
+        },
+        {
+            "name": "feedback_tip_failure",
+            "value": "Uploading feedback image failed"
+        },
+        {
+            "name": "ios",
+            "value": "IOS"
+        },
+        {
+            "name": "share_dialog_title",
+            "value": "QR-Code"
+        },
+        {
+            "name": "feedback_btn_pick",
+            "value": "Take a photo"
+        },
+        {
+            "name": "feendback_btn_image_result_code",
+            "value": "Choose from album"
+        },
+        {
+            "name": "feedback_btn_cancel",
+            "value": "Cancel"
+        },
+        {
+            "name": "android",
+            "value": "Android"
+        },
+        {
+            "name": "reset",
+            "value": "Reset"
+        },
+        {
+            "name": "decode",
+            "value": "Decode"
+        },
+        {
+            "name": "feedback_loading",
+            "value": "Submitting"
+        },
+        {
+            "name": "about_app",
+            "value": "About App"
+        },
+        {
+            "name": "setting_versionname",
+            "value": "Version"
+        },
+        {
+            "name": "txt_decode_loading",
+            "value": "Scanned, processing"
+        },
+        {
+            "name": "currentlanguage",
+            "value": "English"
+        },
+        {
+            "name": "settings_save",
+            "value": "Save"
+        },
+        {
+            "name": "necessary",
+            "value": "Necessary"
+        },
+        {
+            "name": "qt_code",
+            "value": "QT Code"
+        },
+        {
+            "name": "_2_d_symbology",
+            "value": "2-D SYMBOLOGY"
+        },
+        {
+            "name": "aztec",
+            "value": "Aztec"
+        },
+        {
+            "name": "datamatrix",
+            "value": "DataMatrix"
+        },
+        {
+            "name": "maxicode",
+            "value": "MaxiCode"
+        },
+        {
+            "name": "qrcode",
+            "value": "QRcode"
+        },
+        {
+            "name": "_1_d_symbology",
+            "value": "1-D SYMBOLOGY"
+        },
+        {
+            "name": "codabar",
+            "value": "Codabar"
+        },
+        {
+            "name": "itf",
+            "value": "ITF"
+        },
+        {
+            "name": "code128",
+            "value": "Code128"
+        },
+        {
+            "name": "code39",
+            "value": "Code39"
+        },
+        {
+            "name": "code93",
+            "value": "Code93"
+        },
+        {
+            "name": "ean13",
+            "value": "Ean13"
+        },
+        {
+            "name": "ean8",
+            "value": "Ean8"
+        },
+        {
+            "name": "upca",
+            "value": "UPCA"
+        },
+        {
+            "name": "upce",
+            "value": "UPCE"
+        },
+        {
+            "name": "upceanextension",
+            "value": "UPCEANEXtension"
+        },
+        {
+            "name": "stacked",
+            "value": "STACKED"
+        },
+        {
+            "name": "pdf417",
+            "value": "PDF417"
+        },
+        {
+            "name": "rss14",
+            "value": "RSS14"
+        },
+        {
+            "name": "rssexpanded",
+            "value": "RSSExpanded"
+        },
+        {
+            "name": "fit_image",
+            "value": "FIT IMAGE"
+        },
+        {
+            "name": "square",
+            "value": "SQUARE"
+        },
+        {
+            "name": "_3_4",
+            "value": "3:4"
+        },
+        {
+            "name": "_4_3",
+            "value": "4:3"
+        },
+        {
+            "name": "_9_16",
+            "value": "9:16"
+        },
+        {
+            "name": "_16_9",
+            "value": "16:9"
+        },
+        {
+            "name": "free",
+            "value": "FREE"
+        },
+        {
+            "name": "_7_5",
+            "value": "7:5"
+        },
+        {
+            "name": "circle",
+            "value": "CIRCLE"
+        },
+        {
+            "name": "circle_square",
+            "value": "CIRCLE_SQUARE"
+        },
+        {
+            "name": "title_product",
+            "value": "Product"
+        },
+        {
+            "name": "popdown",
+            "value": "Take back"
+        },
+        {
+            "name": "code",
+            "value": "Code:"
+        },
+        {
+            "name": "decode_time",
+            "value": "Decode Time:"
+        },
+        {
+            "name": "popup",
+            "value": "pop up"
+        },
+        {
+            "name": "decoder",
+            "value": "decoder"
+        },
+        {
+            "name": "whether_to_turn_on_sound",
+            "value": "Sound"
+        },
+        {
+            "name": "whether_to_open_vibration",
+            "value": "Vibration"
+        },
+        {
+            "name": "current_version_numbe",
+            "value": "Version"
+        },
+        {
+            "name": "login",
+            "value": "Login"
+        },
+        {
+            "name": "please_enter_a_user_name",
+            "value": "please enter user name"
+        },
+        {
+            "name": "please_enter_your_password",
+            "value": "Please enter your password"
+        },
+        {
+            "name": "ok",
+            "value": "OK"
+        },
+        {
+            "name": "logout",
+            "value": "Not logged in"
+        },
+        {
+            "name": "title",
+            "value": "Title"
+        },
+        {
+            "name": "delete",
+            "value": "delete"
+        },
+        {
+            "name": "submit",
+            "value": "submit"
+        },
+        {
+            "name": "there_is_no_code",
+            "value": "There is no code that can be destroyed"
+        },
+        {
+            "name": "not_logged_in_yet",
+            "value": "Not logged in yet, please login and submit"
+        },
+        {
+            "name": "please_select_to_delete_code",
+            "value": "Please select the code to delete"
+        },
+        {
+            "name": "are_you_sure_you_want_to_delete_the_codes",
+            "value": "Are you sure to delete the code?"
+        },
+        {
+            "name": "successfully_deleted",
+            "value": "successfully deleted"
+        },
+        {
+            "name": "are_you_sure_to_submit",
+            "value": "Are you sure to submit?"
+        },
+        {
+            "name": "give_up_the_modification",
+            "value": "Give up the modification"
+        },
+        {
+            "name": "zxing_decoding_success",
+            "value": "Zxing decoding success:"
+        },
+        {
+            "name": "already_canceled_decoding",
+            "value": "Already canceled decoding"
+        },
+        {
+            "name": "code_map_is_destroyed",
+            "value": "Scanning area is corrupt and cannot be decoded properly"
+        },
+        {
+            "name": "unknown_exception",
+            "value": "Unknown exception"
+        },
+        {
+            "name": "server_error",
+            "value": "Server error"
+        },
+        {
+            "name": "network_anomaly",
+            "value": "network anomaly"
+        },
+        {
+            "name": "network_error",
+            "value": "Network error, please check the network status"
+        },
+        {
+            "name": "setting_up_the_network",
+            "value": "Setting up the network"
+        },
+        {
+            "name": "the_modification_succeeded_and_is_being_restarted",
+            "value": "The modification is successful and is being restarted"
+        },
+        {
+            "name": "login_check_login",
+            "value": "Auto Login"
+        },
+        {
+            "name": "login_check_password",
+            "value": "Remember"
+        },
+        {
+            "name": "login_password",
+            "value": "Password"
+        },
+        {
+            "name": "login_account",
+            "value": "Name"
+        },
+        {
+            "name": "login_logout",
+            "value": "Logout"
+        },
+        {
+            "name": "login_title",
+            "value": "Login"
+        },
+        {
+            "name": "login_tip_name_and_password",
+            "value": "Name or password is incorrect!"
+        },
+        {
+            "name": "login_tip_name",
+            "value": "User name can not be emplty!"
+        },
+        {
+            "name": "login_tip_password",
+            "value": "Password can not be empty!"
+        },
+        {
+            "name": "login_tip_login_Success",
+            "value": "Success！"
+        },
+        {
+            "name": "login_tip_logout",
+            "value": "The account has been logged out!"
+        },
+        {
+            "name": "txt_barcode_supported",
+            "value": "Turn on QR Code, Barcode recognition"
+        },
+        {
+            "name": "txt_qtcode_supported",
+            "value": "Turn on QT code recognition"
+        },
+        {
+            "name": "txt_title_guide1",
+            "value": "What's the QT code?"
+        },
+        {
+            "name": "txt_title_guide2",
+            "value": "The distance is about 10 cm / 4 inches"
+        },
+        {
+            "name": "txt_title_guide2_longer",
+            "value": "The distance is about 12 cm / 5 inches"
+        },
+        {
+            "name": "txt_title_guide3",
+            "value": "Moderate brightness,neither too bright nor too dark"
+        },
+        {
+            "name": "txt_title_guide4",
+            "value": "If the label has wrinkles, level it with your fingers"
+        },
+        {
+            "name": "txt_title_guide5",
+            "value": "Product information is presented when it is identified"
+        },
+        {
+            "name": "btn_enter",
+            "value": "Enter"
+        },
+        {
+            "name": "btn_update",
+            "value": "Check for updates"
+        },
+        {
+            "name": "update_required",
+            "value": "Already the latest version, no update required"
+        },
+        {
+            "name": "dialog_waiting",
+            "value": "Waiting..."
+        },
+        {
+            "name": "dialog_close",
+            "value": "Close"
+        },
+        {
+            "name": "dialog_copy_all",
+            "value": "Copy All"
+        },
+        {
+            "name": "txt_header_guide1",
+            "value": "1、QT"
+        },
+        {
+            "name": "txt_header_guide2",
+            "value": "2、Distance"
+        },
+        {
+            "name": "txt_header_guide3",
+            "value": "3、Brightness"
+        },
+        {
+            "name": "txt_header_guide4",
+            "value": "4、Smooth"
+        },
+        {
+            "name": "txt_header_guide5",
+            "value": "5、Identification"
+        },
+        {
+            "name": "identify_effect",
+            "value": "Identify effect"
+        },
+        {
+            "name": "feedback_section0",
+            "value": "Telephone number (required)"
+        },
+        {
+            "name": "feedback_section1",
+            "value": "Question Feedback (Required)"
+        },
+        {
+            "name": "feedback_section2",
+            "value": "Specific issues (optional)"
+        },
+        {
+            "name": "feedback_section3",
+            "value": "Pictures (optional, provide screenshots of questions)"
+        },
+        {
+            "name": "score",
+            "value": "Score"
+        },
+        {
+            "name": "official_website",
+            "value": "Official Website"
+        },
+        {
+            "name": "bsn",
+            "value": "BSN"
+        },
+        {
+            "name": "privacy_policy",
+            "value": "Privacy Policy"
+        },
+        {
+            "name": "contract_protocol",
+            "value": "QT Terms of Service"
+        },
+        {
+            "name": "and",
+            "value": "and"
+        },
+        {
+            "name": "failed_to_get_the_update_information",
+            "value": "Failed to get the update information"
+        },
+        {
+            "name": "setting_camera",
+            "value": "CameraParameterDetailedSettings"
+        },
+        {
+            "name": "setting_cameraid",
+            "value": "Camera ID(Level)"
+        },
+        {
+            "name": "setting_apilevel",
+            "value": "Api"
+        },
+        {
+            "name": "setting_camera_level",
+            "value": "APISupportLevel(SpecificToAPI2):"
+        },
+        {
+            "name": "setting_zoom",
+            "value": "Zoom"
+        },
+        {
+            "name": "setting_focusDistance",
+            "value": "FocusDistance"
+        },
+        {
+            "name": "setting_exposuretime",
+            "value": "ExposureTime"
+        },
+        {
+            "name": "setting_exposure_compensation",
+            "value": "ExposureCompensation"
+        },
+        {
+            "name": "setting_iso",
+            "value": "Sensitivity"
+        },
+        {
+            "name": "setting_frame_duration",
+            "value": "FrameDuration"
+        },
+        {
+            "name": "setting_mode",
+            "value": "Mode"
+        },
+        {
+            "name": "setting_picture_size",
+            "value": "PictureSize"
+        },
+        {
+            "name": "setting_picture_format",
+            "value": "PictureFormat"
+        },
+        {
+            "name": "setting_preview_size",
+            "value": "PreviewSize"
+        },
+        {
+            "name": "setting_preview_format",
+            "value": "PreviewFormat"
+        },
+        {
+            "name": "setting_auto_focus_mode",
+            "value": "AutoFocusMode"
+        },
+        {
+            "name": "setting_auto_exposure_mode",
+            "value": "AutoExposureMode"
+        },
+        {
+            "name": "setting_auto_white_balance_mode",
+            "value": "AutoWhiteBalanceMode"
+        },
+        {
+            "name": "setting_noise_reduction_mode",
+            "value": "NoiseReductionMode"
+        },
+        {
+            "name": "setting_flash_mode",
+            "value": "FlashMode"
+        },
+        {
+            "name": "setting_auto_focus_trigger",
+            "value": "AutoFocusTrigger"
+        },
+        {
+            "name": "setting_auto_available_capabilities",
+            "value": "AvailableCapabilities"
+        },
+        {
+            "name": "setting_physical_size",
+            "value": "Sensor size"
+        },
+        {
+            "name": "setting_pixel_size",
+            "value": "Pixel size"
+        },
+        {
+            "name": "setting_sensor_active_array_size",
+            "value": "SensorActiveArraySize"
+        },
+        {
+            "name": "setting_sensorpre_aorrection_active_array_size",
+            "value": "SensorpreCorrectionActiveArraySize"
+        },
+        {
+            "name": "setting_focus_distance_calibration",
+            "value": "FocusDistanceCalibration"
+        },
+        {
+            "name": "setting_lensInfo_minimum_focus_distance",
+            "value": "Nearest focus distance"
+        },
+        {
+            "name": "setting_lensInfo_hyperfocal_distance",
+            "value": "Hyper-focal distance"
+        },
+        {
+            "name": "setting_lens_distortion",
+            "value": "LensDistortion"
+        },
+        {
+            "name": "setting_focus_length",
+            "value": "Focal length"
+        },
+        {
+            "name": "setting_face_detetction",
+            "value": "FaceDetection"
+        },
+        {
+            "name": "setting_video_stabilization_mode",
+            "value": "VideoStabilizationMode"
+        },
+        {
+            "name": "setting_stabilization_mode",
+            "value": "StabilizationMode"
+        },
+        {
+            "name": "setting_color_correction_available_aberration_mode",
+            "value": "ColorDifference"
+        },
+        {
+            "name": "setting_color_effect",
+            "value": "ColorEffect"
+        },
+        {
+            "name": "setting_scene_mode",
+            "value": "SceneMode"
+        },
+        {
+            "name": "setting_aperture",
+            "value": "Aperture"
+        },
+        {
+            "name": "txt_tips_camera_error_restart_application",
+            "value": "Camera error, restart application"
+        },
+        {
+            "name": "this_is_the_first_page",
+            "value": "This is the first pages"
+        },
+        {
+            "name": "tv_always_display_qc_panel",
+            "value": "Always display QC panel"
+        },
+        {
+            "name": "tv_quality_key",
+            "value": "Quality:"
+        },
+        {
+            "name": "tv_qtversion_key",
+            "value": "QT Version:"
+        },
+        {
+            "name": "message_download_completed",
+            "value": "The download is complete"
+        },
+        {
+            "name": "install_unknown_apps",
+            "value": "Click the Allow from this soure Button"
+        },
+        {
+            "name": "click_on_the_back_button",
+            "value": "Click on the back Button"
+        },
+        {
+            "name": "txt_tips_long_time_no_identify",
+            "value": "Unable to identify the goods.Please refer to the USER GUIDE."
+        },
+        {
+            "name": "web_clear_cache",
+            "value": "Clear cache"
+        },
+        {
+            "name": "txt_do_web_clear_cache",
+            "value": "Do you want to clear the browser cache?"
+        },
+        {
+            "name": "txt_app_permission_setting",
+            "value": "Permission settings"
+        },
+        {
+            "name": "txt_allow_agreement",
+            "value": "I have read and allow the following agreement"
+        },
+        {
+            "name": "txt_allow",
+            "value": "Allow"
+        },
+        {
+            "name": "txt_not_allow",
+            "value": "Not allowed"
+        },
+        {
+            "name": "txt_allow_agreement_tips",
+            "value": "Thank you for using QT. Before you start using it, please be sure to read the following terms and conditions carefully. If you have read and agree to the terms below, please click Agree to start using this application. If you do not agree, the application will not work properly"
+        },
+        {
+            "name": "txt_read_and_allow",
+            "value": "I have read and agree to the following terms and conditions"
+        },
+        {
+            "name": "txt_allow_agreement_first",
+            "value": "Please be sure to carefully read and agree to the following privacy agreement and software license and service agreement."
+        },
+        {
+            "name": "text_bluetooth",
+            "value": "Bluetooth"
+        },
+        {
+            "name": "text_detector",
+            "value": "Detector"
+        },
+        {
+            "name": "text_enabled",
+            "value": "Enabled"
+        },
+        {
+            "name": "text_device_found",
+            "value": "Bluetooth Devices"
+        },
+        {
+            "name": "text_make_device_found",
+            "value": "Make sure bluetooth is enabled."
+        },
+        {
+            "name": "text_bonded_bluetooth_list",
+            "value": "Bonded devices list"
+        },
+        {
+            "name": "text_discover_bluetooth_requires_gps",
+            "value": "Discover bluetooth devices require GPS."
+        },
+        {
+            "name": "text_turn_on_bluetooth",
+            "value": "Please turn on Bluetooth."
+        },
+        {
+            "name": "text_not_supported_bluetooth",
+            "value": "Bluetooth is not supported."
+        },
+        {
+            "name": "text_bluetooth_connect_failed",
+            "value": "Bluetooth connection failure"
+        },
+        {
+            "name": "text_bluetooth_connect_success",
+            "value": "Bluetooth is connected."
+        },
+        {
+            "name": "text_bluetooth_disconnect",
+            "value": "Bluetooth is disconnected."
+        },
+        {
+            "name": "text_bluetooth_auto_connect",
+            "value": "Auto-connect"
+        },
+        {
+            "name": "message_bluetooth_battery_warning",
+            "value": "The detector is low on battery."
+        },
+        {
+            "name": "message_bluetooth_error_require_reboot",
+            "value": "The Bluetooth is abnormal. APP needs to restart"
+        },
+        {
+            "name": "message_file_transfer_progress",
+            "value": "Progress"
+        },
+        {
+            "name": "text_cannot_update_bluetooth_by_low_battery",
+            "value": "Battery is too low (below 50%) to update Bluetooth"
+        },
+        {
+            "name": "text_bluetooth_is_auto_connect_while_startup",
+            "value": "Whether to automatically connect to the QT detector after the App starts?"
+        },
+        {
+            "name": "text_bluetooth_show_on_main",
+            "value": "Bluetooth status"
+        },
+        {
+            "name": "text_no_a_qt_detector",
+            "value": "This is not a QT detector"
+        },
+        {
+            "name": "text_qt_detector_name_like",
+            "value": "The QT detector starts with QT, such as: QT12345678"
+        },
+        {
+            "name": "txt_bluetooth_guide_title1",
+            "value": "Detector information"
+        },
+        {
+            "name": "txt_bluetooth_guide_title2",
+            "value": "Startup and shutdown"
+        },
+        {
+            "name": "txt_bluetooth_guide_title3",
+            "value": "Connect to App"
+        },
+        {
+            "name": "txt_bluetooth_guide_title4",
+            "value": "Identification"
+        },
+        {
+            "name": "txt_bluetooth_guide_content1",
+            "value": "Mark ①: Battery signal light (orange)\nMark ②: Bluetooth signal light (blue)\nMark ③: Scan signal light (green)\nMark ④: Power button\nMark ⑤: USB charging port\nMark ⑥: Speaker\nMark ⑦: Touch point when scanning"
+        },
+        {
+            "name": "txt_bluetooth_guide_content2",
+            "value": "Press and hold the power button (mark ③) for 3 seconds, the detector will vibrate once, and the Bluetooth signal light (mark ②, blue) will continue to flash\nWhen the detector is started, press and hold the power button (marked ②) again for 3 seconds, the detector will shut down and all signal lights will go out"
+        },
+        {
+            "name": "txt_bluetooth_guide_content3",
+            "value": "QT detectors start with QT in the scan list\nClick the QT detector in the scan list, after the connection is successful, the QT detector will vibrate.\nAfter that, the Bluetooth signal light of the detector will be on all the time"
+        },
+        {
+            "name": "txt_bluetooth_guide_content4",
+            "value": "Touch the head of the detector to the QT code, and the tester will send the recognition result to the App. \nWhen the recognition is successful, the App will display the recognition result."
+        },
+        {
+            "name": "txt_professional_model",
+            "value": "Professional model"
+        },
+        {
+            "name": "txt_pro",
+            "value": "Pro"
+        },
+        {
+            "name": "txt_auto_camera",
+            "value": "Auto camera"
+        },
+        {
+            "name": "txt_ultra_wide",
+            "value": "Ultra Wide Angle Camera"
+        },
+        {
+            "name": "txt_tips_recognize_distance_inch1",
+            "value": "The identification distance is approximately 2.5 cm / 1 inches"
+        },
+        {
+            "name": "txt_tips_recognize_distance_inch2",
+            "value": "The identification distance is approximately 5 cm / 2 inches"
+        },
+        {
+            "name": "txt_tips_recognize_distance_inch3",
+            "value": "The identification distance is approximately 8 cm / 3 inches"
+        },
+        {
+            "name": "txt_tips_recognize_distance_inch4",
+            "value": "The identification distance is approximately 10 cm / 4 inches"
+        },
+        {
+            "name": "txt_tips_recognize_distance_inch5",
+            "value": "The identification distance is approximately 12 cm / 5 inches"
+        },
+        {
+            "name": "txt_tips_recognize_distance_inch6",
+            "value": "The identification distance is approximately 15 cm / 6 inches"
+        },
+        {
+            "name": "txt_tips_recognize_distance_inch7",
+            "value": "The identification distance is approximately 17 cm / 7 inches"
+        },
+        {
+            "name": "txt_tips_recognize_distance_inch8",
+            "value": "The identification distance is approximately 20 cm / 8 inches"
+        },
+        {
+            "name": "setting_view_angle",
+            "value": "Angle of view"
+        },
+        {
+            "name": "camera_wide_angle",
+            "value": "Wide Angle"
+        },
+        {
+            "name": "camera_ultra_wide_angle",
+            "value": "Ultra Wide Angle"
+        },
+        {
+            "name": "camera_telephoto",
+            "value": "Telephoto"
+        },
+        {
+            "name": "camera_macro",
+            "value": "Macro"
+        },
+        {
+            "name": "setting_focal_length",
+            "value": "Focal length"
+        },
+        {
+            "name": "setting_equivalent_focal_length",
+            "value": "Equivalent focal length"
+        },
+        {
+            "name": "txt_camera",
+            "value": "Camera"
+        },
+        {
+            "name": "setting_associated_ids",
+            "value": "Associated Ids"
+        },
+        {
+            "name": "setting_support_multi_focal_length",
+            "value": "Support Multi focal length"
+        },
+      {
+        "name": "text_access_external_storage",
+        "value": "Access external storage"
+      },
+      {
+        "name": "bluetooth_permission_reason",
+        "value": "Used for connecting Bluetooth devices for data transmission"
+      },
+      {
+        "name": "text_check_network_status",
+        "value": "Used to check network connection status"
+      },
+      {
+        "name": "module_desc",
+        "value": "module description"
+      },
+      {
+        "name": "EntryAbility_desc",
+        "value": "description"
+      },
+      {
+        "name": "EntryAbility_label",
+        "value": "QT"
+      },
+      {
+        "name": "permission_CAMERA",
+        "value": "For camera operations"
+      },
+      {
+        "name": "reason_media_location",
+        "value": "For scenarios where the camera retrieves media information"
+      },
+      {
+        "name": "reason_write_imagevideo",
+        "value": "For reading and writing media files with the camera"
+      },
+      {
+        "name": "reason_read_imagevideo",
+        "value": "For camera media file read/write"
+      },
+      {
+        "name": "permission_LOCATION",
+        "value": "For location"
+      }
+    ]
+}
